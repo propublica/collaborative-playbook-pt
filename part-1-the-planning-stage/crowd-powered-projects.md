@@ -1,22 +1,22 @@
-# What About Crowd-Powered Data Projects?
+# E projetos de crowdsourcing de dados?
 
-Sometimes you’ll be collaborating around existing data, perhaps from public records. Other times you’ll be gathering data or tips from readers or potential sources using an online form builder like Google Forms. How do you know when a project is a good candidate for the latter?
+Às vezes você estará colaborando a partir de dados já existentes, talvez de registros públicos. Outras vezes, você coletará dados ou dicas de leitores ou fontes potenciais usando um criador de formulários online, como o Google Form. Como você sabe quando um projeto é um bom candidato para a segunda opção?
 
-When you're considering an idea for a collaborative crowd-powered data project, there are some questions you will want to ask. See the end of this report for a worksheet with a list of these questions.
+Quando você está considerando uma ideia para um projeto de crowdsourcing de dados, há algumas perguntas que você vai querer se fazer. Veja no final deste material uma planilha com uma lista destas perguntas.
 
-## What Question or Questions Do You Want to Answer?
+## Que pergunta ou perguntas você quer responder?
 
-It's important to consider what information you're hoping to get. It's not enough to define a topic you want to report on; you need to spell out exactly what you want to find out. For example, it's not useful to just say you want to report on an election. Some questions you can ask are: What kind of problems do voters face? Which groups of voters face the biggest hurdles to voting? What cities or states are experiencing serious voting problems?
+É importante considerar quais informações você espera obter. Não é suficiente definir um tópico sobre o qual você deseja escrever; você precisa detalhar exatamente o que você quer descobrir. Por exemplo, não é útil apenas dizer que você quer reportar sobre uma eleição. Algumas perguntas que você pode fazer são: Que tipo de problemas os eleitores enfrentam? Quais grupos de eleitores enfrentam os maiores obstáculos para votar? Quais cidades ou estados estão passando por sérios problemas de votação?
 
-The questions will ultimately shape the form you'll build to survey your audience.
+As perguntas acabarão por moldar o formulário que você criará para o seu público
 
-## Can This Question Be Answered by Surveying the Public?
+## Esta pergunta pode ser respondida a partir de um questionário para o seu público?
 
-Keep in mind that crowdsourcing can be your main avenue of sourcing, but it can also be one of several.
+Tenha em mente que o crowdsourcing pode ser o seu principal meio de chegar à informação, mas também pode ser um dos vários.
 
-You'll want to evaluate how you can gather the most complete dataset or source pool possible. Would this be better accomplished through public records requests, existing datasets or gathering news clips? Or would those be useful in addition to crowdsourcing?
+Você vai querer avaliar como reunir o conjunto de dados ou o conjunto de fontes mais completo possível. Isso seria melhor realizado por meio de pedidos de informações públicas, conjuntos de dados existentes ou coleta de notícias publicadas? Ou estes métodos seriam úteis além do crowdsourcing?
 
-Crowdsourcing can be a tool to help find people affected by the issue you’re covering. In turn, those new sources can help deepen the story in order to tell better, more relevant stories.
+O crowdsourcing pode ser uma ferramenta para ajudar a encontrar pessoas afetadas pelo problema que você está abordando. Por sua vez, essas novas fontes podem ajudar a aprofundar a história, para que ela se torne melhor e mais relevante.
 
 ## Who Is Your Audience?
 
