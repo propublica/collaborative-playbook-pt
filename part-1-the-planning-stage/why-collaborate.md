@@ -1,22 +1,22 @@
-# Does This Project Make Sense for Collaboration?
+# Faz sentido este projeto ser colaborativo?
 
-The first step you should take is to decide whether collaboration makes sense and to put together a case for it to present to your own newsroom.
+O primeiro passo que você deve dar é decidir se a colaboração faz sentido e montar um caso para apresentar à sua própria redação.
 
-"There's many, many reasons that you might seek a partner, but it's important to think about why," said Stefanie Murray, the director of the Center for Cooperative Media and an expert on journalism collaborations.
+"Há muitas, muitas razões pelas quais você pode procurar um parceiro, mas é importante pensar no porquê", disse Stefanie Murray, diretora do Centro de Mídia Cooperativa e especialista em colaborações jornalísticas.
 
-According to Murray, five of the most common reasons collaborative projects start are:
+Segundo Murray, cinco dos motivos mais comuns pelos quais os projetos colaborativos começam são:
 
-* A big event, such as an election, is coming up that is too complex to be covered well by a single newsroom. 
-* A crisis is looming, or has happened, such as in a breaking news situation. 
-* A newsroom has an idea for an enterprise topic that makes sense across newsrooms with different audiences and expertise. 
-* A newsroom is having trouble cracking a story on its own and thinks bringing in more reporters may help 
-* A newsroom has received resources or funding \[to do a collaborative project\]. 
+* Um grande evento, como uma eleição, está chegando e é complexo demais para ser coberto por uma única redação.
+* Uma crise está se aproximando, ou aconteceu, como em uma situação de notícias de última hora.
+* Uma redação tem uma ideia para uma pauta que faz sentido em redações com públicos e experiências diferentes.
+* Uma redação está tendo problemas para desvelar uma história por conta própria e acha que trazer mais repórteres pode ajudar
+* Uma redação recebeu recursos ou financiamento \[para fazer um projeto colaborativo\].
 
-Murray recommends that when considering partners, you will first want to evaluate what kind of help your newsroom needs from potential collaborators. You might want to seek partners to shore up weak spots in your own newsroom. Do you need more reporters? Help dealing with records requests? Do you need access to expertise such as data analysis? Language skills or access to communities you have trouble reaching? Or do you see the partnership simply as an audience acquisition strategy and are looking to partner with the biggest-traffic source you can find?
+Murray recomenda que, ao considerar os parceiros, primeiro você avalie que tipo de ajuda sua redação precisa de possíveis colaboradores. Você pode querer procurar parceiros para reforçar pontos fracos em sua própria redação. Você precisa de mais repórteres? Ajuda para lidar com pedidos de informação? Você precisa de uma habilidade específica, como análise de dados? Habilidades linguísticas ou acesso a comunidades que você tem dificuldade de obter? Ou você vê a parceria simplesmente como uma estratégia de aquisição de público-alvo e está procurando parcerias com a maior fonte de tráfego que você pode encontrar?
 
-Before you get started, it's well worth weighing the costs and benefits of the collaboration. It's better to say no up front than to join and not fully participate, or have to back out.
+Antes de começar, vale a pena pesar os custos e benefícios da colaboração. É melhor dizer 'não' antecipadamente do que se juntar e não participar totalmente, ou ter que desistir.
 
-Collaboration may not be right for everyone, or for every project. You shouldn't partner simply for the sake of partnering — you have to be willing to buy into the overall goals of the project and be fully willing to participate and share. You shouldn't join in order to rely on other newsrooms to do work for you; pitching in is part of any collaborative process.
+A colaboração pode não ser adequada para todo mundo ou para todos os projetos. Você não deve se associar simplesmente por uma questão de parceria - você tem que estar disposto a investir nas metas gerais do projeto e estar totalmente disposto a participar e compartilhar. Você não deve participar para se apoiar em outras redações para trabalhar por você; contribuir faz parte de qualquer processo colaborativo.
 
-Managing a collaborative data project takes time. If you don't have the time to commit right now, it may be best to wait.
+Gerenciar um projeto de dados colaborativo leva tempo. Se você não tem tempo para se comprometer agora, talvez seja melhor esperar.
 
