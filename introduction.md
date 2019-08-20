@@ -1,47 +1,46 @@
-# Introduction
+# Introdução
 
-## What Is Collaborative Data Journalism, and Why Would We Want to Do It?
+## O que é jornalismo de dados colaborativo, e por que queremos fazer isso?
 
-As budgets shrink and as the internet creates new opportunities for effortless communication and file sharing, newsrooms across the country are turning to new ways of working together to deliver complex data-based stories to their communities.
+À medida que os orçamentos diminuem e a Internet cria novas oportunidades de comunicação e compartilhamento de arquivos sem dificuldades, as redações de todo o país estão se voltando para novas formas de trabalhar em conjunto e fornecer histórias complexas baseadas em dados para suas comunidades.
 
-Huge datasets that cover vital national issues are coming out of the federal government every day, and within them hide endless numbers of story leads for local journalists. Data journalism teams and civic hackers are collecting massive troves of data, which present a rich vein of reporting if they can be efficiently mined. Engagement and social media teams are fielding large numbers of tips and crowdsourcing responses from their communities, only a few of which can become parts of stories.
+Enormes conjuntos de dados que cobrem questões nacionais vitais são liberados pelo Governo Federal todos os dias, e neles se escondem inúmeras matérias para jornalistas locais. Equipes de jornalismo de dados e hackers cívicos estão coletando quantidades massivas de dados, que apresentam um rico filão de reportagem se puderem ser explorados com eficiência. As equipes de engajamento e mídia social estão respondendo a um grande número de dicas e respostas via crowdsourcing de suas comunidades, sendo que apenas algumas delas podem se tornar partes das histórias.
 
-With the proliferation of available data, it’s become more common for newsrooms to have access to datasets that contain more story leads than they can meaningfully pursue themselves. Collaborative data journalism allows multiple newsrooms to find and tell those stories, make the most out of large datasets and, ultimately, increase the chances that their work will have impact.
+Com a proliferação de dados disponíveis, torna-se mais comum que as redações tenham acesso a conjuntos de dados com mais histórias do que as que elas podem se dedicar significativamente a desvelar. O jornalismo de dados colaborativo permite que várias redações encontrem e contem essas histórias, tirem o máximo proveito de grandes conjuntos de dados e, em última análise, aumentem as chances de que seu trabalho tenha impacto.
 
-The results of collaborative data projects can be anything — a story, a series of stories, an interactive graphic, a documentary, etc. Collaborations can also include entities outside journalism, like universities, nonprofit groups, researchers or libraries.
+Os resultados de projetos de dados colaborativos podem ser qualquer coisa - uma história, uma série de histórias, um gráfico interativo, um documentário, etc. As colaborações também podem incluir entidades fora do jornalismo, como universidades, grupos sem fins lucrativos, pesquisadores ou bibliotecas.
 
-With the right tools and planning, very large, complex and even secret collaborations are possible. The [Panama Papers](https://www.icij.org/investigations/panama-papers/) and [Paradise Papers](https://www.icij.org/investigations/paradise-papers/) investigations, for example, distributed huge document leaks to dozens of newsrooms around the world. ProPublica's [Electionland](http://election.land) project tracks voting problems in real time by working with hundreds of newsrooms around the country.
+Com as ferramentas e o planejamento certos, colaborações muito grandes, complexas e até secretas são possíveis. As investigações dos [Panama Papers](https://www.icij.org/investigations/panama-papers/) e [Paradise Papers](https://www.icij.org/investigations/paradise-papers/), por exemplo, distribuíram enormes vazamentos de documentos para dezenas de redações em todo o mundo. O projeto [Electionland](http://election.land) da ProPublica rastreia problemas de votação em tempo real, trabalhando com centenas de redações em todo o país.
 
-Collaborations run the gamut from independently reporting stories within a coalition or conglomerate, to working together on co-published stories, to sharing resources to report separately. And while some collaborations may last for a limited period of time, others may be long term.
+As colaborações abrangem desde reportagens independentes produzidas em uma coalizão ou conglomerado, até o trabalho conjunto em histórias co-publicadas ou o compartilhamento de recursos para reportar separadamente. E enquanto algumas colaborações podem durar um período limitado de tempo, outras podem ser de longo prazo.
 
-The Center for Cooperative Media, which studies these types of projects, [defines six types of collaborations](https://collaborativejournalism.org/models/). Here’s how their taxonomy applies to data collaborations:
+O Centro de Mídia Cooperativa, que estuda esses tipos de projetos, [define seis tipos de colaboração](https://collaborativejournalism.org/models/). Veja como a taxonomia delas se aplica às colaborações de dados:
 
-* Temporary and Separate: Covering the same issue and working entirely separately, like the [SF Homeless Project](https://twitter.com/bayareahomeless) 
-* Temporary and Co-creating: Sharing information but reporting independently, like ProPublica’s [Electionland](http://election.land) or [Documenting Hate](http://www.documentinghate.com) 
-* Temporary and Integrated: Reporting stories together for a period of time, like the [Panama Papers](https://www.icij.org/investigations/panama-papers/) and the [Implant Files](https://www.icij.org/investigations/implant-files/), or the USA Today network's data projects 
-* Ongoing and Separate: Partners create content separately and share it, like the [Marshall Project's Next to Die](https://www.themarshallproject.org/next-to-die) 
-* Ongoing and Co-creating: Co-reporting in a long-term setting, like [Alaska's Energy Desk](https://www.alaskapublic.org/category/aprn-app/newsfeed/akenergydesk/) 
-* Ongoing and Integrated: Partners work together on an operational level, like [TapInto](https://www.tapinto.net/) in New Jersey. 
+* Temporária e Separada: Cobrindo o mesmo problema e trabalhando de forma totalmente separada, como o [SF Homeless Project](https://twitter.com/bayareahomeless)
+* Temporária e em cocriação: Compartilhando informações, mas reportando de forma independente, como os trabalhos da ProPublica Electionland](http://election.land) ou [Documenting Hate](http://www.documentinghate.com)
+* Temporária e Integrada: Relato de histórias em conjunto por um período de tempo, como os [Panama Papers](https://www.icij.org/investigations/panama-papers/) e o [Implant Files](https://www.icij.org/investigations/implant-files/), ou os projetos de dados da rede USA Today.
+* Em andamento e separada: os parceiros criam o conteúdo separadamente e o compartilham, como o [Next to Die do Marshall Project](https://www.themarshallproject.org/next-to-die)
+* Em andamento e em cocriação: co-relato em um cenário de longo prazo, como o [Alaska's Energy Desk](https://www.alaskapublic.org/category/aprn-app/newsfeed/akenergydesk/)
+* Em andamento e integrada: os parceiros trabalham juntos em um nível operacional, como o [TapInto](https://www.tapinto.net/) em Nova Jersey. 
 
-Data partnerships tend to fall into the temporary category of co-creating or integrated approaches. Occasionally, they are ongoing and separate, like the [AP's Data World service](https://data.world/resources/reports-and-tools/associated-press-case-study/).
+As parcerias de dados tendem a cair na categoria temporária e em cocriação ou integradas. Ocasionalmente, eles são contínuas e separadas, como é o caso do serviço Data World da AP.
 
-The center has a [database](https://collaborativejournalism.org/database-search-sort-learn-collaborative-projects-around-world/) of close to 200 different collaborative projects from around the world that shows the diversity and creativity of these types of endeavors.
+O centro tem um banco de dados de cerca de 200 diferentes projetos colaborativos de todo o mundo, que mostra a diversidade e criatividade desses tipos de iniciativas.
 
-## What Is This Guide?
+## O que é este guia?
 
-At ProPublica, collaborative journalism is a central part of our self-identity and ethos. We’ve partnered with hundreds of journalism outlets on thousands of stories. We’ve assembled this guide to pass on what we’ve learned to other newsrooms interested in starting similar efforts.
+Na ProPublica, jornalismo colaborativo é uma parte central da nossa identidade e da nossa prática. Fizemos parcerias com centenas de agências de jornalismo em milhares de histórias. Reunimos este guia para transmitir o que aprendemos a outras redações interessadas em iniciar esforços semelhantes.
 
-We will also launch a free tool, called Collaborate, which is based on the one we built for our own data collaborations.
+Também lançaremos uma ferramenta gratuita, chamada Collaborate, baseada na que criamos para nossas próprias colaborações com dados.
 
-Finally, this guide is itself a collaboration. We think our process works well, but we don’t have a monopoly on good ideas. We’re posting this guide to GitHub, and we’re eager for your contributions via the normal GitHub methods of issues and pull requests. If you’re not familiar with how to participate using GitHub’s tools, [here’s a guide](https://guides.github.com/activities/hello-world/).
+Finalmente, este guia é em si uma colaboração. Acreditamos que nosso processo funciona bem, mas não temos o monopólio das boas ideias. Estamos postando este guia no GitHub e estamos ansiosos por suas contribuições por meio de issues e pull requests. Se você não estiver familiarizado com a participação usando as ferramentas do GitHub, [aqui está um guia.](https://guides.github.com/activities/hello-world/).
 
-This document is, and may always be, a work in progress. Tools will come out that help improve and even cause us to completely rethink the processes we describe here, and people who also do this work will learn lessons we haven’t. Like any collaboration, the results are stronger because we worked on this together.
+Este documento é, e pode ser sempre, um trabalho em andamento. Serão lançadas ferramentas que ajudam a melhorar e até mesmo nos levam a repensar completamente os processos que descrevemos aqui, e as pessoas que também fazem esse trabalho aprenderão lições que não temos. Como qualquer colaboração, os resultados são mais fortes porque trabalhamos juntos nisso.
 
-## How Can I Contribute or Ask Questions?
+## Como posso contribuir ou fazer perguntas?
 
-Do you have tips or concrete advice about how to execute a data- or tip-focused collaboration? You can add to this guide in one of three ways:
-
-1. Email Rachel Glickhouse at rachel.glickhouse@propublica.org. Please include your name, title and company. 
-2. Clone this project on Github, edit it and submit it back to us via a [pull request](https://help.github.com/en/articles/about-pull-requests). 
-3. Submit questions, feedback or ideas via Github’s [issue-tracking system](https://github.com/propublica/collaborative-playbook/issues/).
+Você tem dicas ou conselhos concretos sobre como executar uma colaboração com dados? Você pode contribuir com este guia de três maneiras:
+1. Mande um e-mail para a Rachel Glickhouse no rachel.glickhouse@propublica.org. Por favor, inclua seu nome, título e empresa.
+2. Clone esse projeto no Github, edite-o e envie-o de volta para nós por meio de uma [pull request](https://help.github.com/en/articles/about-pull-requests).
+3. Envie perguntas, comentários ou ideias por meio do sistema de [issues do Github](https://github.com/propublica/collaborative-playbook/issues/).
 
