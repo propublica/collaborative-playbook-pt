@@ -1,50 +1,50 @@
-# Reporting and Analyzing Data
+# Analisando dados e produzindo matérias sobre eles
 
-Depending on your dataset, it's important to make clear to participants the completeness of the data and how to refer to it in their stories.
+Dependendo de como estão suas bases de dados, é importante esclarecer aos participantes a integridade dos dados e como consultá-los em suas histórias.
 
-## Reporting Recipes
+## Receitas de reportagem
 
-As we’ve already said, it's a really good idea to make a guide about how to use the data as part of your onboarding materials for partners. Documenting Hate has a guide about how to use our database and how to parse the tips — and pitfalls to avoid when trying to do analysis. ProPublica often does [reporting recipes](https://www.propublica.org/search?qss=reporting+recipe) for large datasets to help newsrooms localize stories, or it makes a reporting recipe for our interactive databases, [like this one for Documenting Hate](https://projects.propublica.org/graphics/hatecrime-data).
+Como já dissemos, é uma boa ideia fazer um guia sobre como usar os dados como parte de seus materiais de integração para parceiros. Documenting Hate tem um guia sobre como usar nosso banco de dados e como analisar as dicas - e as armadilhas a serem evitadas ao tentar fazer a análise. A ProPublica costuma gerar [receitas de reportagens](https://www.propublica.org/search?qss=reporting+recipe) para grandes conjuntos de dados para ajudar as redações a publicar histórias locais, ou receitas de reportagens para nossos bancos de dados interativos, como este para o [Documenting Hate](https://projects.propublica.org/graphics/hatecrime-data).
 
-Reporting recipes are a key part of the [Bureau Local](https://www.thebureauinvestigates.com/local)'s approach to engaging partners. It sends them to partners to give them context about the investigation, key findings, guidance on how to parse the data and ways to localize the data. "The recipes play a key role in improving the accessibility of local information and ensuring it reaches people in a clear and actionable way," the group says in its [resource guide](https://docs.google.com/document/d/1VVJnVaHK8LuWXnwVcvVEZnkghvLla064vulUrMH-scU/edit).
+As receitas de reportagens são uma parte essencial da abordagem do [Bureau Local](https://www.thebureauinvestigates.com/local) para envolver os parceiros. Ele as envia aos parceiros para fornecer contexto sobre a investigação, principais conclusões, orientações sobre como analisar os dados e formas de localizá-los. "As receitas desempenham um papel fundamental para melhorar a acessibilidade das informações locais e garantir que elas cheguem às pessoas de maneira clara e acionável", afirma o grupo em seu [guia de recursos](https://docs.google.com/document/d/1VVJnVaHK8LuWXnwVcvVEZnkghvLla064vulUrMH-scU/edit).
 
-If your dataset is solely tips you've collected from the public, you'll need to make clear to participants a few things.
+Se o seu conjunto de dados for apenas dicas que você coletou do público, será necessário esclarecer algumas coisas aos participantes.
 
-1. The data isn't all-encompassing. 
-2. That means data isn't ripe for statistical analysis or comparable over time. 
-3. Tips are just tips until they are verified by journalists, so it's a good idea to be cautious about how you cite numbers from the database. 
+1. Os dados não são abrangentes.
+2. Isso significa que os dados não estão prontos para análise estatística ou não são comparáveis ao longo do tempo.
+3. As dicas são apenas dicas até que sejam verificadas pelos jornalistas, por isso é uma boa ideia ter cuidado com a maneira como você cita números do banco de dados.
 
-The important thing to keep in mind with crowdsourced data is that you can cite the number of tips you've collected, and the number of tips you've verified, but you should make clear how you assembled that data.
+O importante a ter em mente com os dados de crowdsourcing é que você pode citar o número de dicas coletadas e o número de dicas verificadas, mas deve esclarecer como reuniu esses dados.
 
-For example, with Documenting Hate, partners doing stories with multiple tips will often say how many they examined and how many they were able to verify. They explain that tips were gathered as part of the Documenting Hate project, a coalition of news organizations.
+Por exemplo, com o Documenting Hate, os parceiros que fazem histórias com várias dicas costumam dizer quantas examinaram e quantas foram capazes de verificar. Eles explicam que as dicas foram reunidas como parte do projeto Documenting Hate, uma coalizão de organizações de notícias.
 
-The bottom line is to make sure all of the participants understand the limitations of the data and how to refer to it.
+O ponto principal é garantir que todos os participantes entendam as limitações dos dados e como se referir a eles.
 
-If your dataset is limited solely to crowdsourced tips, there are several approaches to reporting:
+Se os seus dados forem limitados apenas a dicas de crowdsourcing, há várias abordagens para gerar matérias:
 
-* Report individual tips as standalone stories. This is particularly useful when you're working with local media outlets. 
-* Identify patterns in the data and report out as many tips as possible that are part of that pattern. Remember: Patterns in the data don’t automatically mean the pattern exists as prevalently or in the same way beyond the results of the callout.  
-* Use the database to identify sources for stories you're already working on. 
+* Reporte dicas individuais como histórias independentes. Isso é particularmente útil quando você trabalha com meios de comunicação locais.
+* Identifique padrões nos dados e relate o máximo de dicas possível que fazem parte desse padrão. Lembre-se: os padrões nos dados não significam automaticamente que o padrão existe com prevalência ou da mesma maneira além dos resultados da chamada.
+* Use o banco de dados para identificar fontes de histórias nas quais você já esteja trabalhando.
 
-See story examples from:
+Veja exemplos de histórias de:
 
-* ProPublica's [Documenting Hate](https://projects.propublica.org/graphics/hatecrimes-stories) 
-* ProPublica's [Electionland](https://www.propublica.org/electionland) 
-* ProPublica's [Maternal Mortality](https://www.propublica.org/article/lost-mothers-maternal-health-died-childbirth-pregnancy) 
-* Reveal's [Rehab Reporting Network](https://www.revealnews.org/local/reveal-reporting-networks/rehab-network/) 
-* Reveal's [Case Cleared Reporting Network](https://www.revealnews.org/local/reveal-reporting-networks/case-cleared-network/) 
+* [Documenting Hate](https://projects.propublica.org/graphics/hatecrimes-stories), da ProPublica 
+* [Electionland](https://www.propublica.org/electionland), da ProPublica 
+* [Maternal Mortality](https://www.propublica.org/article/lost-mothers-maternal-health-died-childbirth-pregnancy), da ProPublica 
+* [Rehab Reporting Network](https://www.revealnews.org/local/reveal-reporting-networks/rehab-network/), da Reveal 
+* [Case Cleared Reporting Network](https://www.revealnews.org/local/reveal-reporting-networks/case-cleared-network/), da Reveal 
 * [The Bureau Local](https://www.thebureauinvestigates.com/local/local-stories) 
-* BBC's [Shared Data Unit](https://www.bbc.com/lnp/sdu/sdu-coverage) 
-* [Verificado](https://verificado.mx/) Mexico project \(Spanish\) 
-* First Draft's [Comprova](https://projetocomprova.com.br/) project \(Portuguese\) 
-* First Draft's [Crosscheck](https://crosscheck.firstdraftnews.org/france-en/) project \(French\) 
-* Vox's [ER bills project](https://www.vox.com/2018/2/27/16936638/er-bills-emergency-room-hospital-fees-health-care-costs)\* 
+* [Shared Data Unit](https://www.bbc.com/lnp/sdu/sdu-coverage) da BBC
+* [Verificado](https://verificado.mx/) Mexico project \(Spanish\), de veículos mexicanos (em espanhol) 
+* Projeto [Comprova](https://projetocomprova.com.br/), da First Draft (em português)
+* Projeto [Crosscheck](https://crosscheck.firstdraftnews.org/france-en/), da First Draft (em francês) 
+* [ER bills project](https://www.vox.com/2018/2/27/16936638/er-bills-emergency-room-hospital-fees-health-care-costs)\*, da Vox 
 
-\*_This did not operate as a collaborative project, but tips were offered to local reporters at the end of the project._
+\*_Não funcionou como um projeto colaborativo, mas foram oferecidas dicas aos repórteres locais ao final do projeto._
 
-## Multiple Datasets
+## Múltiplas bases de dados
 
-If you're importing or adding data from other sources in addition to crowdsourcing, it's possible you'll be closer to a more complete dataset. In this case, you may be able to run an analysis and allow partners to do so. But until you get to the point where your data is comprehensive, it's important to communicate with partners about how to cite the data properly.
+Se você estiver importando ou adicionando dados de outras fontes, além do crowdsourcing, é possível que você esteja mais perto de um conjunto de dados mais completo. Nesse caso, você poderá executar uma análise e permitir que os parceiros façam isso. Mas até chegar ao ponto em que seus dados são abrangentes, é importante se comunicar com os parceiros sobre como citar os dados corretamente.
 
-If a partner conducts its own analysis, it's a good idea to make sure it runs it by the other partners or with the group coordinator before publishing.
+Se um parceiro realizar sua própria análise, é uma boa ideia garantir que ela seja executada pelos outros parceiros ou pelo coordenador do grupo antes da publicação.
 
