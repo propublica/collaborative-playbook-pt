@@ -1,23 +1,23 @@
-# Coordinating Tips With Partners
+# Coordenando as dicas com os parceiros
 
-Each participating newsroom’s success depends on both their responsiveness and their willingness to share a pooled resource.
+O sucesso de cada redação participante depende da capacidade de resposta e da vontade de compartilhar um recurso conjunto.
 
-ProPublica’s Documenting Hate and Electionland projects were based on a few simple principles:
+Os projetos Documentating Hate e Electionland da ProPublica foram baseados em alguns princípios simples:
 
-* It's an exclusivity-free zone. 
-* To avoid harassing tipsters with a deluge of phone calls from reporters, entries in the database are claimable on a first-come, first-served basis. Tips can be revisited later, but only after the original journalist is finished reporting it out or attempting to contact the tipster.
-* Tips that arrive through a specific media organization are given as first dibs to that media organization.
+* É uma zona livre de exclusividade/furo.
+* Para evitar um assédio excessivo aos informantes, com uma enxurrada de telefonemas de repórteres, as entradas no banco de dados são direcionadas aos jornalistas por ordem de chegada. As dicas podem ser revisadas mais tarde, mas somente depois que o jornalista original terminar de checá-la ou tentar entrar em contato com o informante.
+* As dicas que chegam por meio de uma organização de mídia específica são fornecidas como primeiros detalhes para essa organização de mídia.
 
-In the case of Documenting Hate, there's a partner manager \(me!\) to play traffic cop, manage the tips and give out contact information for tipsters. If everyone has access to contact information, the onus is on the participants to respect the first-come, first-served rule. 
+No caso do Documenting Hate, há um gerente de parceiro (eu!) Para interpretar o policial de trânsito, gerenciar as dicas e fornecer informações de contato para os informantes. Se todos tiverem acesso às informações de contato, o ônus é dos participantes respeitarem a regra do primeiro a chegar, primeiro a ser servido.
 
-Our new tool Collaborate supports marking records as having been claimed. It is set up so that reporters can see who is working on which tips, which tips have already been verified and which haven't been reported on yet. There's also a space for reporters to put notes in more detail about what information they've gathered. This is really important for keeping track of progress on tips.
+Nossa nova ferramenta Collaborate suporta a marcação de registros como tendo sido reivindicada. Está configurado para que os repórteres possam ver quem está trabalhando em quais dicas, quais dicas já foram verificadas e quais ainda não foram relatadas. Há também um espaço para os repórteres anotarem com mais detalhes as informações que eles coletaram. Isso é realmente importante para acompanhar o progresso nas dicas.
 
-Occasionally, there are breaking tips that multiple people want to jump on. Usually the way that plays out is the first one to request to work on the tip publishes it first, and other outlets then might cite them or do separate reporting.
+Ocasionalmente, existem dicas mais quentes que várias pessoas querem seguir. Geralmente, a maneira que funciona é a primeira pessoa a reivindicar a dica publica sobre ela, e outras agências podem citá-las ou fazer relatórios separados.
 
-If you'd prefer to come up with a different system for claiming tips, just make sure that everyone is on board from the beginning.
+Se você preferir criar um sistema diferente para reivindicar dicas, verifique se todos estão de acordo desde o início.
 
-It's also important to strike the right balance in communicating with partners about the project and ongoing reporting.
+Também é importante encontrar o equilíbrio certo na comunicação com os parceiros sobre o projeto e as reportagens em andamento.
 
-"It's respecting the fact that these folks are really busy and that for them to pay attention to what's going on, communication has to be easy and streamlined and direct," Friedman-Rudovsky said. "It has to be sort of enough information for them to know what's going on but not too much so that they feel overwhelmed and burdened by that."  
+"É respeitar o fato de que essas pessoas estão realmente ocupadas e que, para prestar atenção ao que está acontecendo, a comunicação deve ser fácil, simplificada e direta", disse Friedman-Rudovsky. "Tem que haver informações suficientes para que eles saibam o que está acontecendo, mas não muito, para que não se sintam sobrecarregados".  
 
 
