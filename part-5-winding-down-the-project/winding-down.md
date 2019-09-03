@@ -1,12 +1,12 @@
 # Winding Down the Project
 
-Many projects operate on a fixed timeline, whether it's six months or three years. So you'll want to consider how you prepare to close down a crowdsourced project.
+Muitos projetos operam em um cronograma fixo, seja seis meses ou três anos. Então você deve considerar como fazer para encerrar um projeto de crowdsourcing.
 
-* **Communicate with partners**. Give them a schedule — and a few reminders — so they know what to expect and have time to finish any remaining work. 
-* **Archive your work**. It’s likely the forms you set up will become inaccessible over time, so make sure you take screenshots or save images before you shut it down.  
-* **Take good notes**. It’s surprising how quickly you’ll forget details, so be a good ancestor to future you: Write up a quick history of the project, what worked and what you’d do differently while you still have it all fresh in your mind. Include a list of the names and contact information of partner reporters and editors you worked with, as well as a list of links to the stories that came out of the project.  
-* **Close down the submission form**. You can set the form to stop receiving submissions, but it's a good idea to update any evergreen callout pages with a note about the project ending and thanking participants for their responses.  
-* **Update the project landing page**. Specify the dates the project ran so that visitors understand the project is no longer active. 
-* **Find a home for the data**. You'll need to either find a secure place to store the data or decide on a partner to take over as custodian. You probably want to consult with your legal department on the best way to store any sensitive information — or if deleting data that’s no longer journalistically useful is the most prudent approach. 
-* **Do a post-mortem**. Before you take on another collaboration or crowdsourced project, consider what worked, what didn't and what you learned. Share your findings with readers and those who participated in your callout, either through email, social media or the online spaces where you may have encountered participants during the project.
+* **Comunique-se com os parceiros**. Dê a eles um cronograma - e alguns lembretes - para que eles saibam o que esperar e tenham tempo para concluir qualquer trabalho restante.
+* **Arquive seu trabalho**. É provável que os formulários que você configurou se tornem inacessíveis ao longo do tempo. Lembre-se de tirar capturas de tela ou salvar imagens antes de desligá-las.
+* **Faça boas anotações**. É surpreendente a rapidez com que você esquece os detalhes; portanto, seja um bom ancestral para o seu "eu" futuro: escreva um histórico rápido do projeto, o que funcionou e o que você faria diferente enquanto ainda tem tudo em mente. Inclua uma lista dos nomes e informações de contato dos repórteres e editores parceiros com os quais você trabalhou, bem como uma lista de links para as histórias que saíram do projeto.
+* **Feche o formulário de envio**. Você pode definir o formulário para parar de receber entradas, mas é uma boa ideia atualizar as páginas de destaque sempre com uma observação sobre o término do projeto e agradecer aos participantes por suas respostas.
+* **Atualize a página de destino do projeto**. Especifique as datas em que o projeto foi executado para que os visitantes entendam que o projeto não está mais ativo.
+* **Encontre um lar para os dados**. Você precisará encontrar um local seguro para armazenar os dados ou escolher um parceiro para assumir o cargo de custodiante. Você provavelmente deseja consultar seu departamento jurídico sobre a melhor maneira de armazenar informações confidenciais - ou se a exclusão de dados que não são mais úteis em termos jornalísticos é a abordagem mais prudente.
+* **Faça um post-mortem**. Antes de assumir outro projeto colaborativo ou de crowdsourcing, considere o que funcionou, o que não funcionou e o que você aprendeu. Compartilhe suas descobertas com os leitores e as pessoas que participaram da sua chamada, por e-mail, mídia social ou pelos espaços on-line onde você pode ter encontrado participantes durante o projeto.
 
