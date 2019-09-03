@@ -1,4 +1,4 @@
-# Part 2: Assembling the Partnerships
+# Parte 2: Reunindo os parceiros
 
-You’ve determined that your project is right for collaboration, and you’ve even put together a dream list of collaborators. How do you actually start?
+Você determinou que seu projeto é ideal para colaboração e montou uma lista de colaboradores dos sonhos. Como realmente começar?
 
