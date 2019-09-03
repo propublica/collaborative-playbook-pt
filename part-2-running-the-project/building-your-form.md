@@ -1,32 +1,31 @@
-# Building Your Form and Database
+# Construindo seu formulário e sua base de dados
 
-_ProPublica is building on the software tool we created for our large-scale partnerships and releasing it open source. It’s meant to be a turnkey solution that you can use to build your own project without having to start from scratch or hire a developer. It’s called Collaborate, and it will be available in the fall._
+_A ProPublica está desenvolvendo a ferramenta de software que criamos para nossas parcerias de larga escala e a liberando em código aberto. Ele é uma solução pronta que você pode usar para criar seu próprio projeto sem precisar começar do zero ou contratar um desenvolvedor. Chama-se Collaborate e estará disponível no outono._
 
-_The project is a collaboration with the Google News Initiative, which also provided financial support. The software currently supports Google Forms, which is the tool we’ll use for our examples. It also supports data submitted using Screendoor, as well as data in Google Sheets spreadsheets you have access to._ [_**Sign up here to receive an alert when the tool is launched**_](https://propublica.forms.fm/documenting-hate-tool-sign-up)_._
+_O projeto é uma colaboração com a Google News Initiative, que também forneceu suporte financeiro. Atualmente, o software suporta o Google Forms, que é a ferramenta que usaremos para nossos exemplos. Ele também suporta dados enviados usando o Screendoor, bem como dados nas planilhas do Google Sheets às quais você tem acesso. [Inscreva-se aqui para receber um alerta quando a ferramenta for lançada](https://propublica.forms.fm/documenting-hate-tool-sign-up)._
 
-_From here on out, this guide is going to assume your project is based on crowdsourced tips._
+_A partir de agora, este guia assumirá que seu projeto é baseado em dicas de crowdsourcing._
 
-The foundation of a crowdsourced data project is your tip submission form, so you need to think very carefully about what data points you need, the phrasing of your questions and the terminology you use. The wording of your questions requires reporting just like anything else you publish.
+A base de um projeto de dados de crowdsourcing é o seu formulário de envio de dicas, portanto, você deve pensar muito cuidadosamente sobre quais dados você precisa, a formulação de suas perguntas e a terminologia usada. A redação das suas perguntas requer pesquisa como qualquer outra coisa que você publica.
 
-We highly recommend doing research and consulting with experts about those three points. ProPublica’s Ken Schwencke based the form we use in ProPublica’s Documenting Hate project on other crime victimization surveys, and he talked with social scientists who helped make a form that could support serious reporting down the road.
+É altamente recomendável pesquisar e consultar especialistas sobre esses três pontos. Ken Schwencke, do ProPublica, baseou o formulário que usamos no projeto Documenting Hate do ProPublica em outras pesquisas de vitimização de crimes, e conversou com cientistas sociais que ajudaram a criar um formulário que pudesse apoiar relatórios sérios no futuro.
 
-And just like anything else ProPublica publishes, the form went through editors, the copy desk and legal review.
+E, assim como qualquer outra coisa que a ProPublica publica, o formulário passou por editores, revisores e uma revisão legal.
 
-We also recommend keeping the form brief and simple; if there are too many questions, people will give up before they finish.
+Também recomendamos manter o formulário breve e simples; se houver muitas perguntas, as pessoas desistirão antes de terminar.
 
-Try to get it right the first time. Although as a technical matter you can change the form later, it adds lots of complexity to do so. If you’re not careful, changing your form might require that you split your respondents into groups whose answers really can’t be compared because the questions were worded differently \(or they answered different questions altogether\).
+Tente acertar na primeira vez. Embora, por uma questão técnica, você possa alterar o formulário posteriormente, isso adiciona muita complexidade ao processo. Se você não tomar cuidado, alterar seu formulário pode exigir que você divida seus participantes em grupos cujas respostas realmente não podem ser comparadas porque as perguntas foram redigidas de forma diferente (ou responderam a perguntas totalmente diferentes).
 
-That having been said, there may be good reasons to — very carefully — change your form later on. Changing the form could help take advantage of feedback loops and to respond to reporting plans becoming more focused or to new facts coming to light. “I am a fan of updating and tweaking as reporting moves forward on different projects,” Ariana Tobin, ProPublica’s engagement editor, said. “You want to be transparent about it, of course.”
+Dito isto, pode haver boas razões para - com muito cuidado - alterar seu formulário posteriormente. Alterar o formulário pode ajudar a tirar proveito dos loops de feedback e responder a planos de reportagem que se tornam mais focados ou a novos fatos que vêm à tona. "Sou fã de atualizações e aprimoramentos à medida que os relatórios avançam em diferentes projetos", disse Ariana Tobin, editora de engajamento da ProPublica. "Você quer ser transparente sobre isso, é claro."
 
-At a minimum, you will likely want to capture:
+No mínimo, você provavelmente vai querer capturar:
 
-* Dates, locations and descriptions of the thing that happened. 
-* The tipster's name and contact information. 
-* Space to include additional links or attachments. 
+* Datas, locais e descrições do que aconteceu.
+* O nome do informante e informações de contato.
+* Espaço para incluir links ou anexos adicionais.
 
-You should also consider any categories that you can use for filtering within the database of responses. For example, Documenting Hate allows tipsters to choose location type \(school, private property, etc.\); reasons they were targeted; and whether they reported the incident to police.
+Você também deve considerar quaisquer categorias que possa usar para filtrar no banco de dados de respostas. Por exemplo, Documenting Hate permite que os informantes escolham o tipo de local (escola, propriedade privada, etc.); razões pelas quais eles foram alvejados; e se eles denunciaram o incidente à polícia.
 
-You should also think carefully about the language on the page that comes before the form. Keep it brief, but be clear about what you plan to do with submissions, how you’ll follow up and what you’ll do to ensure tipsters' privacy.
+Você também deve pensar cuidadosamente sobre o idioma na página que vem antes do formulário. Seja breve, mas seja claro sobre o que você planeja fazer com os envios, como fará o acompanhamento e o que fará para garantir a privacidade dos usuários que dão dicas.
 
-For example, here's the form we use for [Documenting Hate](https://projects.propublica.org/graphics/hatecrimes-form), and here's the form we used to report on [separated families](https://www.propublica.org/getinvolved/do-you-know-a-child-in-a-detention-center-or-shelter-facility) at the border. Both are available in Spanish.
-
+EXEMPLOS: Este é o formulário que usamos para o [Documenting Hate](https://projects.propublica.org/graphics/hatecrimes-form) e o formulário que usamos para reportar sobre [famílias separadas](https://www.propublica.org/getinvolved/do-you-know-a-child-in-a-detention-center-or-shelter-facility) na fronteira. Ambos estão disponíveis em espanhol.
