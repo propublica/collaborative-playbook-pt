@@ -1,4 +1,4 @@
-# Part 1: How to Run a Collaborative Data Project
+# Parte 1: Como executar um projeto de dados colaborativo
 
-There are four stages to the collaborative data project: planning, assembling, launching and maintaining.
+Há quatro etapas para o projeto de dados colaborativo: planejamento, coleta, lançamento e manutenção.
 
