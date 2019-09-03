@@ -1,20 +1,19 @@
-# Measuring Success
+# Medindo o sucesso
 
-It’s a good idea to track several elements of your project:
+É uma boa ideia acompanhar vários elementos do seu projeto:
 
-* Number of tips and verified tips
-* Number of stories produced
-* Impact from stories
-* Outside media coverage generated from the project
+* Número de dicas e dicas verificadas
+* Número de histórias produzidas
+* Impacto das histórias
+* Cobertura da mídia externa gerada a partir do projeto
 
-Our Collaborate tool makes it easy to track the tips, but if you build your own system, be sure to make tip tracking an integral part of the database. In the Documenting Hate database, it's easy to see tip totals and to update tips to show which are being worked on and which have been reported out.
+Nossa ferramenta Collaborate facilita o rastreamento das dicas, mas se você criar seu próprio sistema, faça do rastreamento de dicas parte integrante do banco de dados. No banco de dados Documenting Hate, é fácil ver os totais das dicas e atualizar as dicas para mostrar quais estão sendo trabalhadas e as que foram usadas em matérias.
 
-Collaborations may involve one, several or many stories, but no matter the case, it's a good idea to have a public [landing page](https://projects.propublica.org/graphics/hatecrimes-stories) where all the stories live with a description of the project and partners. We also keep spreadsheets of stories generated from our collaborative projects, which lets us keep detailed notes and get a sense of which partners are having the most success and which might need more help.
+As colaborações podem envolver uma, várias ou muitas histórias, mas não importa o caso, vale a pena ter uma página de destino pública, onde todas as histórias estejam com uma descrição do projeto e dos parceiros. Também mantemos planilhas de histórias geradas a partir de nossos projetos colaborativos, o que nos permite manter notas detalhadas e ter uma noção de quais parceiros estão obtendo mais sucesso e quais podem precisar de mais ajuda.
 
-Make sure at least one person is in charge of tracking impact, which ranges from media coverage of the project and individual stories to responses from government officials to legislation. It can also be useful to keep tipsters up to date on the stories you're producing and the impact they have, if it makes sense for your project. The Center for Investigative Reporting has a [helpful glossary](http://impact.cironline.org/) of what types of impact you can track. At ProPublica we most value [real-world impact](https://s3.amazonaws.com/propublica/assets/about/LFA_ProPublica-white-paper_2.1.pdf). 
+Certifique-se de que pelo menos uma pessoa seja responsável pelo rastreamento do impacto, que abrange desde a cobertura da mídia do projeto e histórias individuais até respostas de funcionários do governo à legislação. Também pode ser útil manter os informantes atualizados sobre as histórias que você está produzindo e o impacto que elas causam, se isso faz sentido para o seu projeto. O Center for Investigative Reporting possui um [glossário útil](http://impact.cironline.org/) de quais tipos de impacto você pode acompanhar. Na ProPublica, [valorizamos mais o impacto no mundo real] (https://s3.amazonaws.com/propublica/assets/about/LFA_ProPublica-white-paper_2.1.pdf). 
 
-For Documenting Hate, I rely on a number of things to track impact: our reporters, Google Alerts, following the hate beat in the news, searching for news clips for follow-up on partner stories and checking footnotes of legislation/congressional testimony for links to our work.
+Para o Documenting Hate, eu confio em várias coisas para rastrear o impacto: nossos repórteres, o Google Alerts, acompanhamento da cobertura sobre o ódio, clipping de notícias para acompanhar as histórias de parceiros, conferência de notas de rodapé da legislação / testemunho do Congresso para verificar se há links do nosso trabalho.
 
-ICIJ, which works with partners all over the world in multiple languages, relies in part on its internal social platform for partners to share highlights of impact from their countries. The organization also has regional coordinators focused on sets of countries who are more attuned to what's happening there.  
-
+O ICIJ, que trabalha com parceiros em todo o mundo em vários idiomas, conta em parte com sua plataforma social interna para que os parceiros compartilhem destaques do impacto em seus países. A organização também possui coordenadores regionais focados em conjuntos de países que estão mais sintonizados com o que está acontecendo lá.
 
