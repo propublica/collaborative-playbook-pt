@@ -1,20 +1,20 @@
-# How to Find and Approach Potential Partners
+# Como encontrar e abordar parceiros em potencial
 
-The first piece of advice for collaboration first-timers from many professionals in this space is that it can be fruitful to work with people you already know. You've already established trust and communication, which are incredibly important to making a collaboration work.
+O primeiro conselho que muitos profissionais com experiência dão para quem vai fazer uma colaboração pela primeira vez é que pode ser proveitoso trabalhar com pessoas que você já conhece. Você já estabeleceu confiança e comunicação, que são extremamente importantes para fazer uma colaboração funcionar.
 
-It can also be useful to start a large partnership with a smaller core group, which you can assemble with people you know.
+Também pode ser útil iniciar uma grande parceria com um grupo principal menor, que você pode reunir com pessoas que você conhece.
 
-If you're looking to branch out beyond your network, here's how you can find potential partners:
+Se você deseja expandir para além da sua rede, veja como encontrar possíveis parceiros:
 
-* Start from the bottom up. Research individual reporters based on their beat. Who's doing solid, interesting reporting in this space and would be excited about new reporting opportunities? Energetic beat reporters make for some of the best partners, and they can serve as boosters for the collaboration inside their newsroom.  
-* Identify the major players in a given city or state. Who's doing good work in print, radio, TV and digital? Are there nonprofit or hyperlocal newsrooms? 
-* Make connections at industry conferences. It's a great place to meet face-to-face and find people working on similar issues or projects. 
-* Reach out to the folks at the [Center for Cooperative Media](https://collaborativejournalism.org/) for advice, or look through their [collaborative journalism database](https://collaborativejournalism.org/database-search-sort-learn-collaborative-projects-around-world/) for ideas.  
+* Comece de baixo para cima. Pesquise repórteres individuais com base em suas editorias. Quem está fazendo reportagens sólidas e interessantes nesse tema e se empolgaria com novas oportunidades de produzir reportagens? Repórteres de sucesso se tornam alguns dos melhores parceiros e podem servir como impulsionadores para a colaboração dentro de suas redações.  
+* Identifique os principais atores em uma determinada cidade ou estado. Quem está fazendo um bom trabalho em impresso, rádio, TV e digital? Há redações sem fins lucrativos ou hiperlocais? 
+* Faça conexões em conferências do setor. É um ótimo lugar para se encontrar face a face e encontrar pessoas trabalhando em problemas ou projetos semelhantes. 
+* Entre em contato com o pessoal do [Centro de Mídia Cooperativa](https://collaborativejournalism.org/) para obter orientação ou procure ideias em seu [banco de dados de jornalismo colaborativo](https://collaborativejournalism.org/database-search-sort-learn-collaborative-projects-around-world/).  
 
-Once you’ve got a good list of potential partners together, there are a few ways to reach them.
+Quando você tiver uma boa lista de parceiros em potencial, há algumas maneiras de se conectar com eles.
 
-* If you have friends in common, it can be useful for them to put you in touch. It helps build trust. 
-* Cold emailing. Set up calls or in-person meetings via email to tell potential participants about the project. Email is a good starting point because you can lay out a basic description of what you're trying to do ahead of time. It's helpful to start with the reporters who would work directly on the project, who then can get buy-in from the higher-ups. 
-* After you announce the project, recruit participants at industry events. One way to do that is to do a panel or talk about the project as a starting point and pitch a group of people at once. 
-* Post and circulate a sign-up form to allow participants to come to you.
+* Se você tiver amigos em comum, pode ser útil pedir para eles colocarem vocês em contato. Isso ajuda a construir confiança.
+* E-mail direto. Configure chamadas ou reuniões presenciais via e-mail para informar possíveis participantes sobre o projeto. E-mail é um bom ponto de partida porque você pode definir uma descrição básica do que está tentando fazer com antecedência. É útil começar com os repórteres que trabalhariam diretamente no projeto, que poderiam obter a aprovação dos seus superiores.
+* Depois de anunciar o projeto, recrute participantes em eventos do setor. Uma maneira de fazer isso é fazer um painel ou falar sobre o projeto como ponto de partida e lançar um grupo de pessoas de uma só vez.
+* Publique e circule um formulário de inscrição para permitir que os participantes venham até você.
 
