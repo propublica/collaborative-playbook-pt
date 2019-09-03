@@ -1,13 +1,13 @@
-# Avoiding Pitfalls
+# Evitando armadilhas
 
-There are inevitable challenges to doing this type of project. Depending on the number of partners you're working with, you may encounter some of these issues.
+Existem desafios inevitáveis para se fazer esse tipo de projeto. Dependendo do número de parceiros com os quais você está trabalhando, você pode encontrar alguns desses problemas.
 
-The more opportunities to explain how the project works and the rules of participation, the better: in writing, by phone, in person — whatever the case may be. We talk to all partners by phone before onboarding, then provide written onboarding materials and training materials, as well as opportunities for online trainings and webinars.
+Quanto mais oportunidades para explicar como o projeto funciona e as regras de participação, melhor: por escrito, por telefone, pessoalmente - seja qual for o caso. Conversamos com todos os parceiros por telefone antes de integrá-los e, em seguida, fornecemos materiais por escrito e materiais de treinamento, além de oportunidades para treinamentos on-line e seminários on-line.
 
-While some journalists may express enthusiasm, they may not make it all the way through the onboarding process, and they may stop responding to you if they're unable or unwilling to continue to participate. Not every partner will necessarily produce a story for the project, unless you make that a condition of participation. We do not.
+Embora alguns jornalistas possam expressar entusiasmo, eles podem não passar por todo o processo de integração e podem parar de responder se você não puder ou não quiser continuar participando. Nem todo parceiro necessariamente produzirá uma história para o projeto, a menos que você faça disso uma condição de participação. Nós não fazemos.
 
-Given the unfortunate realities of our industry, turnover is a serious issue. Sometimes great people switch jobs or are laid off, and it can be an uphill battle to find new people in that newsroom to participate and onboard from scratch.
+Dada a infeliz realidade da nossa indústria, a rotatividade é um problema sério. Às vezes, excelentes pessoas trocam de emprego ou são demitidas, e pode ser uma batalha difícil encontrar novas pessoas na redação para participar e partir do zero.
 
-Reporters are busy and tend to be reactive rather than proactive, so it's useful to find people working on longer-term projects who have a greater chance of actually doing reporting and making use of the project. Also, those who are less proactive may get annoyed when they lose out on tips, but it's important to reiterate how the project works and encourage them to take the initiative rather than waiting to be notified.  
+Os repórteres estão ocupados e tendem a ser mais reativos do que proativos, por isso é útil encontrar pessoas que trabalham em projetos de longo prazo que têm maior chance de realmente fazer reportagens e bom uso do projeto. Além disso, aqueles que são menos proativos podem ficar irritados quando perdem dicas, mas é importante reiterar como o projeto funciona e incentivá-los a tomar a iniciativa em vez de esperar para serem notificados.  
 
 
