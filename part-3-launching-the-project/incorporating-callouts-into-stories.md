@@ -1,22 +1,22 @@
-# Incorporating Callouts Into Stories
+# Incluindo chamadas nas histórias
 
-There are several effective ways to incorporate the tip form into stories that are produced from the project or that are related to the project.
+Há várias maneiras eficazes de incorporar o formulário de dicas nas histórias produzidas a partir do projeto ou relacionadas ao projeto.
 
-First, any time you or a partner produce a story relevant to the topic of the project, be sure to either write a prominent callout linking to the form, or better yet, embed the form itself at the bottom of the story if the form builder you’re using supports it \(Google’s does\). Ditto for including an on-air callout pointing people to the form online.
+Primeiro, sempre que você ou um parceiro produzir uma história relevante sobre o tema do projeto, escreva um texto destacado com link para o formulário ou, melhor ainda, incorpore o próprio formulário na parte inferior da história, se o form builder que você estiver usando permitir (o Google Form permite). O mesmo vale para a inclusão de uma frase de destaque no site, direcionando as pessoas para o formulário on-line.
 
-When stories relevant to the project are shared on social media, consider composing a thread \(which can even just be two tweets\) in which you promote the tip form in the second or subsequent tweets after the initial story.
+Quando as histórias relevantes para o projeto são compartilhadas nas mídias sociais, considere compor uma thread (que pode ser apenas dois tweets) na qual você promove o formulário no segundo tweet ou nos tweets subsequentes ao da história inicial.
 
-When you or partners produce reporting from the project, it's important that the project is referenced, and you can link back to the tip form in those mentions, too.
+Quando você ou seus parceiros produzem matérias a partir do projeto, é importante que o projeto seja referenciado e que o formulário possa ser linkado nessas menções.
 
-If there's breaking news about the project, or breaking news about a subject related to your project, you and your partners should consider sharing information about the project on social media with a callout to the form. And while monitoring social media posts about the project or its reporting, be sure to follow up with commenters leaving tips in the comments, pointing them to the tip submission form.
+Se houver notícias de última hora sobre o projeto, ou notícias de última hora sobre um assunto relacionado ao seu projeto, você e seus parceiros deverão considerar o compartilhamento de informações sobre o projeto nas mídias sociais com uma chamada para o formulário. E enquanto monitora postagens de mídia social sobre o projeto ou suas reportagens, acompanhe os comentaristas deixando dicas nos comentários, apontando-os para o formulário de envio de dicas.
 
-In short, the more often you get the form in front of potential tipsters, the more likely you are to receive a steady stream of tips. And people tend to respond to stories that they recognize in their own experiences, which is why it's important to make it easy for readers to submit tips after reading, listening to or watching a story.
+Em resumo, quanto mais você divulgar o formulário entre possíveis informantes, maior a probabilidade de receber um fluxo constante de dicas. E as pessoas tendem a responder às histórias que reconhecem em suas próprias experiências, e é por isso que é importante facilitar aos leitores o envio de dicas depois de ler, ouvir ou assistir a uma história.
 
-For example, Documenting Hate partner WNYC posts a link to the tip form at the bottom of stories about hate crimes, even when that story didn’t originate as a Documenting Hate tip.
+Por exemplo, o parceiro WNYC da Documenting Hate publicou um link para o formulário de dicas na parte inferior das histórias sobre crimes de ódio, mesmo quando as histórias não partiram de uma dica obtida no projeto Documenting Hate.
 
 ![](../.gitbook/assets/screen-shot-2019-08-09-at-12.12.46-pm.png)
 
-Albert Samaha, a reporter at BuzzFeed News, shares the tip form after his newsroom publishes a story using tips.
+Albert Samaha, repórter do BuzzFeed News, compartilhou o formulário de dicas depois que sua redação publicou uma história usando algumas das dicas recebidas.
 
 ![](../.gitbook/assets/screen-shot-2019-08-09-at-12.14.34-pm%20%282%29.png)
 
