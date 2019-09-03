@@ -1,37 +1,35 @@
-# Onboarding Partners
+# Integrando os parceiros ao projeto
 
-## Project Management
+## Gerência do Projeto
 
-Large-scale collaborative projects need to have somebody playing the role of project manager or coordinator. At the very least, you'll need a point person to keep track of partner news organizations and journalist names' and contact information. Depending on the structure of the collaboration, you'll need someone to recruit and onboard new partners, manage data that's been worked on or tips that have been verified, and keep track of stories and impact.
+Projetos colaborativos de larga escala precisam ter alguém desempenhando o papel de gerente ou coordenador de projetos. No mínimo, você precisará de uma pessoa pontual para acompanhar as organizações de notícias parceiras, os nomes dos jornalistas e as informações de contato. Dependendo da estrutura da colaboração, você precisará de alguém para recrutar e integrar novos parceiros, gerenciar dados que foram trabalhados ou dicas que foram verificadas e acompanhar as histórias e o seu impacto.
 
-This role can't be an afterthought, and it can’t be “everybody’s job.” It's essential that there be somebody assigned and empowered to manage the project who has the time to dedicate to wrangling partners. "Project management is very important, and it's a completely undervalued position," said Mar Cabra, former head of the Research and Data unit at the [International Consortium of Investigative Journalists](https://www.icij.org/). "Things don't happen by magic."
+Esse papel não pode ser pensado depois e não pode ser o "trabalho de todos". É essencial que haja alguém designado e habilitado para gerenciar o projeto que tenha tempo para se dedicar a parceiros conflitantes. "O gerenciamento de projetos é muito importante e é uma posição completamente desvalorizada", disse Mar Cabra, ex-chefe da unidade de Pesquisa e Dados do [Consórcio Internacional de Jornalistas Investigativos](https://www.icij.org/). "As coisas não acontecem por mágica".
 
-## Onboarding: Tutorials and Training
+## Integrando o time: tutoriais e treinamento
 
-It's useful to standardize the information you send to new partners. For Documenting Hate, we sent out a detailed email with information about our Slack group, how to use our tips database, onboarding requirements, language to use in stories and other project resources. We also provided regular trainings about how to use project resources and a link to a recording of a training in our onboarding materials.
+É útil padronizar as informações que você envia para novos parceiros. Para o Documenting Hate, enviamos um e-mail detalhado com informações sobre o nosso grupo no Slack, como usar nosso planilha de dicas, requisitos de integração, idioma para usar em histórias e outros recursos do projeto. Também fornecemos treinamentos regulares sobre como usar os recursos do projeto e um link para a gravação de um treinamento em nossos materiais de integração.
 
-Likewise, when the Bureau Local onboards partners, it adds new members to its Slack group, where it provides data files and reporting recipes \(see the Reporting and Analyzing Data section below\).
+Da mesma forma, quando o Bureau Local participa, ele adiciona novos membros ao seu grupo no Slack, onde fornece bases de dados e receitas de reportagens (consulte a seção Relatório e análise de dados abaixo).
 
-At a minimum, you should spell out guidelines about how to use the data you're collecting. For example, ICIJ produces tutorials, provides trainings and has region-specific coordinators to work with reporters in their languages. The organization — which sets an embargo date for all partners to publish — also distributes guidelines ahead of publication about the final round of reporting.
+No mínimo, você deve definir diretrizes sobre como usar os dados que está coletando. Por exemplo, o ICIJ produz tutoriais, fornece treinamentos e possui coordenadores específicos da região para trabalhar com os repórteres em seus idiomas. A organização - que estabelece uma data de embargo para a publicação de todos os parceiros - também distribui diretrizes antes da publicação sobre a rodada final de reportagens.
 
-As the lead newsroom, you should also be ready with resources like data dictionaries and documentation so reporters across the collaboration can understand the material. And you will likely understand the limitations of the data better than your partners will. If the data can’t be compared across counties, or if numbers can’t be aggregated to the state level, let partners know that early and often.
+Como a principal redação, você também deve estar preparado com recursos como dicionários de dados e documentação para que os repórteres colaboradores possam entender o material. E você provavelmente entenderá as limitações dos dados melhor do que seus parceiros. Se os dados não puderem ser comparados entre municípios ou se os números não puderem ser agregados ao nível do estado, informe aos parceiros isso cedo e frequentemente.
 
-## Embargoes
+## Embargos
 
-Organizations working from a shared trove of data often set an embargo for partners to produce their main round of stories. Crowdsourced projects sometimes embargo their launch announcement. This allows sufficient time for reporting and better coordination between partners, especially if there are a large number of them.
+As organizações que trabalham com dados compartilhados geralmente estabelecem um embargo para os parceiros produzirem sua principal rodada de matérias. Os projetos de crowdsourcing às vezes embargam seu anúncio de lançamento. Isso permite tempo suficiente para a produção de reportagens e uma melhor coordenação entre os parceiros, especialmente se houver um grande número deles.
 
-It’s important to zealously overcommunicate embargo dates and terms when talking with partners. Things can get complicated even in small newsrooms, and it only takes one slip-up by a journalist at a partner newsroom who didn’t know a story needed special handling to ruin launch plans for everybody.
+É importante comunicar bem datas e termos de embargo ao conversar com parceiros. As coisas podem se complicar mesmo em pequenas redações, e basta o erro de um jornalista em uma redação parceira que não sabia que uma história precisava de tratamento especial para arruinar os planos de lançamento de todos.
 
-## Keeping Partners Talking
+## Mantendo a comunicação com os parceiros
 
-Collaborative projects often rely on a shared communication space, like Slack or an internal tool, to have ongoing conversations. For some projects, there are weekly or biweekly calls or Slack chats to discuss reporting, or an in-person meeting. Project managers are also vital to maintaining a regular conversation one-on-one with partners.
+Projetos colaborativos geralmente dependem de um espaço de comunicação compartilhado, como o Slack ou uma ferramenta interna, para manter conversas em andamento. Para alguns projetos, há chamadas semanais ou quinzenais, bate-papos no Slack para discutir reportagens ou uma reunião presencial. Os gerentes de projeto também são vitais para manter uma conversa regular com os parceiros.
 
-Most of the collaborative data projects we’re familiar with have used Slack as a communication system. It is by no means the cheapest or most secure option. A full explanation of using Slack for internewsroom communication is beyond the scope of this guide, but here are some useful starting places from Slack’s own documentation:
+A maioria dos projetos de dados colaborativos com os quais estamos familiarizados usaram o Slack como um sistema de comunicação. Não é de forma alguma a opção mais barata ou mais segura. Uma explicação completa do uso do Slack na comunicação entre salas de aula está além do escopo deste guia, mas aqui estão alguns pontos de partida úteis da documentação do Slack:
 
-* [How to use Slack](https://get.slack.help/hc/en-us/categories/200111606) 
-* [Setting up and managing a Slack team](https://get.slack.help/hc/en-us/categories/200122103) 
-* [Slack basic tips](https://slack.com/slack-tips/slack-basics) 
-* [Shared Slack channels](https://slack.com/slack-tips/work-with-external-partners) 
-* [Multi-channel and single-channel Slack users](https://get.slack.help/hc/en-us/articles/202518103-Multi-Channel-and-Single-Channel-Guests) 
-* [Slack for project management](https://get.slack.help/hc/en-us/articles/218130338-Slack-for-project-management)
-
+* [Como usar o slack](https://get.slack.help/hc/pt-br/categories/200111606-Como-usar-o-Slack)
+* [Administração do workspace](https://get.slack.help/hc/pt-br/categories/200122103-Administra%C3%A7%C3%A3o-do-workspace)
+* [Dicas e truques](https://get.slack.help/hc/pt-br/categories/360000049063)
+* [Convidados multicanais e de canal único](https://get.slack.help/hc/pt-br/articles/202518103-Convidados-multicanais-e-de-canal-%C3%BAnico)
+* [Slack para gerenciamento de projetos](https://get.slack.help/hc/pt-br/articles/218130338-Slack-para-gerenciamento-de-projetos)
