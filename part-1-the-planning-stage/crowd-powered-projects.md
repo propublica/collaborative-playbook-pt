@@ -1,4 +1,4 @@
-# E projetos de crowdsourcing de dados?
+# E quanto a projetos de crowdsourcing de dados?
 
 Às vezes você estará colaborando a partir de dados já existentes, talvez de registros públicos. Outras vezes, você coletará dados ou dicas de leitores ou fontes potenciais usando um criador de formulários online, como o Google Form. Como você sabe quando um projeto é um bom candidato para a segunda opção?
 
@@ -18,47 +18,47 @@ Você vai querer avaliar como reunir o conjunto de dados ou o conjunto de fontes
 
 O crowdsourcing pode ser uma ferramenta para ajudar a encontrar pessoas afetadas pelo problema que você está abordando. Por sua vez, essas novas fontes podem ajudar a aprofundar a história, para que ela se torne melhor e mais relevante.
 
-## Who Is Your Audience?
+## Quem é sua audiência?
 
-When we say “audience” in this instance, we mean the people who will have the highest incentive to fill out your crowdsourcing form. Those are the people you want to reach.
+Quando dizemos "audiência" neste exemplo, queremos dizer as pessoas que terão o maior incentivo para preencher seu formulário de crowdsourcing. Essas são as pessoas que você deseja alcançar.
 
-This is essentially an exercise in sourcing. Is your audience defined by geography? Shared experiences? Profession? Ethnicity? Anger at the same institution, workplace or system? It may be more than one group; for example, you may want to reach eligible voters in Florida or undocumented immigrants in detention. You must define this audience early on, after you define the questions you want to answer.
+Este é essencialmente um exercício de busca de fontes. Seu público é definido pela geografia? Experiências compartilhadas? Profissão? Etnia? Raiva na mesma instituição, local de trabalho ou sistema? Pode ser mais do que um grupo; por exemplo, você pode querer alcançar eleitores qualificados na Flórida ou imigrantes indocumentados em detenção. Você deve definir esse público logo no início, depois de definir as perguntas que deseja responder.
 
-## Is Your Reporting Goal Quantitative or Qualitative?
+## O objetivo da sua reportagem é quantitativo ou qualitativo?
 
-In other words, do you aim to build a complete dataset or are you more concerned with unearthing new story leads? If you need a complete dataset, you will almost certainly need additional branches of reporting and to incorporate other sources, like public records.
+Em outras palavras, você pretende construir um conjunto de dados completo ou está mais preocupado em descobrir novas pistas para a história? Se você precisa de um conjunto de dados completo, você quase certamente precisará de ramos adicionais de reportagens e incorporar outras fontes, como registros públicos.
 
-If you’re hoping to say something about the overall population based on the responses you get from your online form, you’ll need to launch a more scientific survey using random sample techniques. Without that, you’ll be limited in how you can characterize the overall response to your form.
+Se você quiser dizer algo sobre a população geral com base nas respostas que recebe do seu formulário on-line, precisará fazer uma pesquisa mais científica usando técnicas de amostragem aleatória. Sem isso, você ficará limitado em como pode caracterizar a resposta geral ao seu formulário.
 
-But if you're hoping for leads — on sources, potential patterns to follow-up on more scientifically, etc. — engagement journalism and crowdsourcing can help you do that.
+Mas se você está esperando por fontes de leads, padrões potenciais de acompanhamento mais científico, etc. - o jornalismo de engajamento e o crowdsourcing podem ajudá-lo a fazer isso.
 
-## Can You Gather the Information You Need With a Single Structured Set of Questions?
+## Você pode reunir as informações necessárias com um único conjunto estruturado de perguntas?
 
-The next thing to consider is if the information you need is simple or condensed enough to fit into a single set of questions. When it comes to building a survey form later on, you'll want to keep things simple. Circulating more than one form will reduce response rates, especially if you're working within a collaboration.
+A próxima coisa a considerar é se a informação que você precisa é simples ou condensada o suficiente para caber em um único conjunto de perguntas. Quando se trata de construir um formulário de pesquisa mais tarde, você vai querer manter as coisas simples. Circular mais de um formulário reduzirá as taxas de resposta, especialmente se você estiver trabalhando em colaboração.
 
-## Do You Need to Distribute Your Tip Form in More Than One Language?
+## Você precisa distribuir seu formulário de dicas em mais de um idioma?
 
-It's almost always a good idea to translate your tip form and distribute it in other languages. \(That said, you shouldn't translate the form into a language if you don't have any participating journalists who can read the responses and communicate with tipsters.\) If you’re doing reporting across multiple countries or trying to reach immigrant communities, it’s mandatory. You'll also need to find partners that can help you distribute the translated form to the appropriate community that speaks that language.
+É quase sempre uma boa ideia traduzir seu formulário de dicas e distribuí-lo em outros idiomas. (Dito isso, você não deve traduzir o formulário para um idioma se não tiver nenhum jornalista participante que possa ler as respostas e se comunicar com os tipsters.) Se estiver fazendo relatórios em vários países ou tentando alcançar comunidades de imigrantes, É obrigatório. Você também precisará encontrar parceiros que possam ajudá-lo a distribuir o formulário traduzido para a comunidade apropriada que fala esse idioma.
 
-## Who Is Best Equipped to Report These Tips Out?
+## Quem está melhor posicionado para produzir matérias a partir dessas dicas?
 
-There are a number of factors you'll want to consider when thinking about partnerships around crowdsourced data:
+Há vários fatores que você deve considerar ao pensar em parcerias com dados de crowdsourcing:
 
-* Which organizations cover and serve the communities you want to reach?  
-* Which organizations have expertise in reporting on this subject or community?  
-* Which journalists would be interested in and willing to do this kind of work? 
+*Quais organizações cobrem e servem as comunidades que você deseja alcançar?
+*Quais organizações têm experiência em relatórios sobre esse assunto ou comunidade?
+*Quais jornalistas estariam interessados e dispostos a fazer esse tipo de trabalho?
 
-You will want to partner with news organizations that are able to distribute the tip form to the audience you want to reach. That could be geographic or relate to specific communities. You'll also want to consider who would be most interested and best prepared to report these tips out.
+Você vai buscar fazer parceria com organizações de notícias que possam distribuir o formulário de dicas para o público-alvo que você deseja alcançar. Isso pode estar relacionado a uma área geográfica ou comunidades específicas. Você também vai querer considerar quem estaria mais interessado e melhor preparado para produzir matérias a partir dessas dicas.
 
-That might mean local outlets covering local news or journalists with expertise in that particular beat. But you also need to consider which news outlets are willing to collaborate and able to be good partners, which can be a challenge for larger companies given the levels of hierarchy decisions require.
+Pode ser que sejam veículos locais que cobrem notícias locais ou jornalistas com experiência em uma editoria específica. Mas você também precisa considerar quais agências de notícias estão dispostas a colaborar e podem ser boas parceiras, o que pode ser um desafio para empresas maiores, dados os níveis de hierarquia na tomada de decisões.
 
-You’ll also want to talk about who’s reaching out to participants and how. Pick partners you trust to be considerate and careful.
+Você também vai querer falar sobre quem está entrando em contato com os participantes e como. Escolha parceiros que você confia que serão atenciosos e cuidadosos.
 
-## What Kind of Stories Will This Effort Likely Produce?
+## Que tipo de histórias esse esforço provavelmente produziria?
 
-When considering partners, you should consider the most likely product outcomes from your data. Will the stories likely be text, audio or video? Will they include visualizations? If the topic is particularly sensitive and tipsters will be hesitant to use their names or show their faces, video and broadcast may be a more challenging route.
+Ao considerar parceiros, você deve considerar os resultados mais prováveis de seus dados. As histórias provavelmente serão texto, áudio ou vídeo? Elas incluirão visualizações? Se o tópico for particularmente sensível e os informantes hesitarem em usar seus nomes ou mostrar seus rostos, o vídeo e a transmissão podem ser um caminho mais desafiador.
 
-## Do You Have a Plan for Using the Tips and Communicating With the Audience?
+## Você tem um plano para usar as dicas e se comunicar com o público?
 
-You should establish a system for following up on tips and make sure that partners are on the same page. \(We have suggestions in this guide about how we've done it so that you can divide and conquer.\) You should also think about how you plan to engage people sending in tips. Are there other ways you can keep them engaged, like keeping in touch on a regular basis, sending updates when you publish a new story or starting a private newsletter or Facebook group?
+Você deve estabelecer um sistema para acompanhar as dicas recebidas e garantir que os parceiros estejam na mesma página (temos sugestões neste guia de como fizemos). Você também deve pensar em como planeja envolver as pessoas que enviam dicas. Existem outras maneiras de mantê-los engajados, como manter contato regularmente, enviar atualizações quando você publica uma nova história ou iniciar uma newsletter privada ou um grupo no Facebook?
 
