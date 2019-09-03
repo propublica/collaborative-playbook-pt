@@ -1,2 +1,2 @@
-# Collaborative Data Journalism Guide
+# Guia de Jornalismo de Dados Colaborativo
 
