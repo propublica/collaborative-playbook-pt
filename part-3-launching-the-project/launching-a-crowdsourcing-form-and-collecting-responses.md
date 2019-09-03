@@ -1,11 +1,10 @@
-# Launching a Crowdsourcing Form and Collecting Responses
+# Lançando um formulário de Crowdsourcing e coletando respostas
 
-Engagement journalists use the word “callouts” to describe requests for information from readers or viewers, including submission forms, dedicated email links, etc. Thinking about and designing effective callouts is worth a guide of its own, but this will get you started.
+Jornalistas que trabalham com engajamento usam a palavra "callouts" (chamada) para descrever solicitações de informações de leitores ou espectadores, incluindo formulários de envio, links de e-mail dedicados, etc.
 
-It's important to coordinate a launch date with your partners so you can all publish your tip submission forms on the same day, and each newsroom should prepare an article or segment about the project to recruit participants from their audience and explain to them what you're hoping to achieve. Coordinate on the technical details but leave your partners room to speak to their audiences as they know best. That connection is what made them attractive in the first place, isn’t it? 
+É importante coordenar uma data de lançamento com seus parceiros para que todos possam publicar seus formulários para receber dicas no mesmo dia, e cada redação deve preparar um artigo sobre o projeto para recrutar participantes do público e explicar o que está procurando alcançar. Coordene os detalhes técnicos, mas deixe espaço para os seus parceiros falarem com o público deles como eles sabem melhor. Essa conexão é o que os tornou atraentes em um primeiro momento, não é verdade?
 
-Once you settle on a format for launch stories, be sure to coordinate press outreach and social media/newsletter distribution. Creating buzz about the project will help get more eyeballs on your tip form. A shared Google Doc among social media teams can work wonders here.
+Depois de escolher um formato para lançar suas histórias, não deixe de coordenar a divulgação na imprensa e a distribuição em redes sociais e newsletter. Chamar atenção para o projeto ajudará a trazer mais acessos ao seu formulário. Um Google Doc compartilhado entre as equipes de mídia social pode fazer maravilhas.
 
-As part of that outreach effort, identify organizations and people who care about this particular issue and who might be willing to spread the word about the project and have access to the communities you need to reach.   
-
+Como parte desse esforço de divulgação, identifique organizações e pessoas que se preocupam com esse problema específico e que possam estar dispostas a divulgar o projeto entre as comunidades que você precisa alcançar.   
 
