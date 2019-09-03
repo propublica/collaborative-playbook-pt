@@ -1,8 +1,8 @@
-# Addressing Security and Privacy Concerns
+# Lidando com questões de segurança e privacidade
 
-People will not fill out your form if they don’t understand what you will \(and won’t\) do with their information.
+As pessoas não preencherão seu formulário se não entenderem o que você fará (e não fará) com as informações deles.
 
-In the case of Documenting Hate, our form clearly says that we keep sources’ information confidential, and that it won’t be voluntarily shared with law enforcement. But we do explain that their information will be shared with other partners in the project. You may need to repeat some of this information when you reach out to tipsters.
+No caso do Documenting Hate, nosso formulário diz claramente que mantemos as informações das fontes confidenciais e que não serão compartilhadas voluntariamente com as autoridades. Mas explicamos que suas informações serão compartilhadas com outros parceiros no projeto. Pode ser necessário repetir algumas dessas informações quando você procurar os informantes.
 
-Our Collaborate tool is secure by default, including access controls and data encryption. But if you build your own database, it’s vital that you set up levels of security to ensure only authorized users can access it. Depending on what information you’re collecting, it may even be legally required that you do so.
+Nossa ferramenta Collaborate é segura por padrão, incluindo controles de acesso e criptografia de dados. Mas se você criar seu próprio banco de dados, é vital que você configure níveis de segurança para garantir que apenas usuários autorizados possam acessá-lo. Dependendo das informações que você está coletando, pode até ser legalmente exigido que você o faça.
 
