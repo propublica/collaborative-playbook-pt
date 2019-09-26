@@ -1,2 +1,2 @@
-# Guia de Jornalismo de Dados Colaborativo
+# Initial page
 
