@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Guia de jornalismo de dados colaborativo](README.md)
-* [Introdução](introduction.md)
+* [Introdução](introduction/README.md)
+  * [Outros idiomas](introduction/outros-idiomas.md)
 * [Parte 1: Como executar um projeto de dados colaborativo](part-1-the-planning-stage/README.md)
   * [E quanto a projetos de crowdsourcing de dados?](part-1-the-planning-stage/crowd-powered-projects.md)
   * [Faz sentido este projeto ser colaborativo?](part-1-the-planning-stage/why-collaborate.md)
