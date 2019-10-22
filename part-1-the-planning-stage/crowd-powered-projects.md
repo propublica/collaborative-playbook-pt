@@ -1,6 +1,6 @@
 # E quanto a projetos de crowdsourcing de dados?
 
-Às vezes você estará colaborando a partir de dados já existentes, talvez de registros públicos. Outras vezes, você coletará dados ou dicas de leitores ou fontes potenciais usando um criador de formulários online, como o Google Form. Como você sabe quando um projeto é um bom candidato para a segunda opção?
+Às vezes você estará colaborando a partir de dados já existentes, talvez de registros públicos. Outras vezes, você coletará dados ou dicas de leitores ou fontes potenciais usando um criador de formulários online, como o Google Forms. Como você sabe quando um projeto é um bom candidato para a segunda opção?
 
 Quando você está considerando uma ideia para um projeto de crowdsourcing de dados, há algumas perguntas que você vai querer se fazer. Veja no final deste material uma planilha com uma lista destas perguntas.
 
@@ -8,7 +8,7 @@ Quando você está considerando uma ideia para um projeto de crowdsourcing de da
 
 É importante considerar quais informações você espera obter. Não é suficiente definir um tópico sobre o qual você deseja escrever; você precisa detalhar exatamente o que você quer descobrir. Por exemplo, não é útil apenas dizer que você quer reportar sobre uma eleição. Algumas perguntas que você pode fazer são: Que tipo de problemas os eleitores enfrentam? Quais grupos de eleitores enfrentam os maiores obstáculos para votar? Quais cidades ou estados estão passando por sérios problemas de votação?
 
-As perguntas acabarão por moldar o formulário que você criará para o seu público
+As perguntas acabarão por moldar o formulário que você criará para o seu público.
 
 ## Esta pergunta pode ser respondida a partir de um questionário para o seu público?
 
@@ -38,13 +38,15 @@ A próxima coisa a considerar é se a informação que você precisa é simples 
 
 ## Você precisa distribuir seu formulário de dicas em mais de um idioma?
 
-É quase sempre uma boa ideia traduzir seu formulário de dicas e distribuí-lo em outros idiomas. \(Dito isso, você não deve traduzir o formulário para um idioma se não tiver nenhum jornalista participante que possa ler as respostas e se comunicar com os tipsters.\) Se estiver fazendo relatórios em vários países ou tentando alcançar comunidades de imigrantes, É obrigatório. Você também precisará encontrar parceiros que possam ajudá-lo a distribuir o formulário traduzido para a comunidade apropriada que fala esse idioma.
+É quase sempre uma boa ideia traduzir seu formulário de dicas e distribuí-lo em outros idiomas. \(Dito isso, você não deve traduzir o formulário para um idioma se não tiver nenhum jornalista participante que possa ler as respostas e se comunicar com os participantes.\) Se estiver fazendo relatórios em vários países ou tentando alcançar comunidades de imigrantes, é obrigatório. Você também precisará encontrar parceiros que possam ajudá-lo a distribuir o formulário traduzido para a comunidade apropriada que fala esse idioma.
 
 ## Quem está melhor posicionado para produzir matérias a partir dessas dicas?
 
 Há vários fatores que você deve considerar ao pensar em parcerias com dados de crowdsourcing:
 
-_Quais organizações cobrem e servem as comunidades que você deseja alcançar?_ Quais organizações têm experiência em relatórios sobre esse assunto ou comunidade? \*Quais jornalistas estariam interessados e dispostos a fazer esse tipo de trabalho?
+* Quais organizações cobrem e servem as comunidades que você deseja alcançar? __
+* Quais organizações têm experiência em relatórios sobre esse assunto ou comunidade?
+* Quais jornalistas estariam interessados e dispostos a fazer esse tipo de trabalho?
 
 Você vai buscar fazer parceria com organizações de notícias que possam distribuir o formulário de dicas para o público-alvo que você deseja alcançar. Isso pode estar relacionado a uma área geográfica ou comunidades específicas. Você também vai querer considerar quem estaria mais interessado e melhor preparado para produzir matérias a partir dessas dicas.
 
