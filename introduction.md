@@ -17,7 +17,7 @@ As colaborações abrangem desde reportagens independentes produzidas em uma coa
 O Centro de Mídia Cooperativa, que estuda esses tipos de projetos, [define seis tipos de colaboração](https://collaborativejournalism.org/models/). Veja como a taxonomia delas se aplica às colaborações de dados:
 
 * Temporária e Separada: Cobrindo o mesmo problema e trabalhando de forma totalmente separada, como o [SF Homeless Project](https://twitter.com/bayareahomeless)
-* Temporária e em cocriação: Compartilhando informações, mas reportando de forma independente, como os trabalhos da ProPublica Electionland](http://election.land) ou [Documenting Hate](http://www.documentinghate.com)
+* Temporária e em cocriação: Compartilhando informações, mas reportando de forma independente, como os trabalhos da ProPublica Electionland\]\([http://election.land](http://election.land)\) ou [Documenting Hate](http://www.documentinghate.com)
 * Temporária e Integrada: Relato de histórias em conjunto por um período de tempo, como os [Panama Papers](https://www.icij.org/investigations/panama-papers/) e o [Implant Files](https://www.icij.org/investigations/implant-files/), ou os projetos de dados da rede USA Today.
 * Em andamento e separada: os parceiros criam o conteúdo separadamente e o compartilham, como o [Next to Die do Marshall Project](https://www.themarshallproject.org/next-to-die)
 * Em andamento e em cocriação: co-relato em um cenário de longo prazo, como o [Alaska's Energy Desk](https://www.alaskapublic.org/category/aprn-app/newsfeed/akenergydesk/)
@@ -39,8 +39,5 @@ Este documento é, e pode ser sempre, um trabalho em andamento. Serão lançadas
 
 ## Como posso contribuir ou fazer perguntas?
 
-Você tem dicas ou conselhos concretos sobre como executar uma colaboração com dados? Você pode contribuir com este guia de três maneiras:
-1. Mande um e-mail para a Rachel Glickhouse no rachel.glickhouse@propublica.org. Por favor, inclua seu nome, título e empresa.
-2. Clone esse projeto no Github, edite-o e envie-o de volta para nós por meio de uma [pull request](https://help.github.com/en/articles/about-pull-requests).
-3. Envie perguntas, comentários ou ideias por meio do sistema de [issues do Github](https://github.com/propublica/collaborative-playbook/issues/).
+Você tem dicas ou conselhos concretos sobre como executar uma colaboração com dados? Você pode contribuir com este guia de três maneiras: 1. Mande um e-mail para a Rachel Glickhouse no rachel.glickhouse@propublica.org. Por favor, inclua seu nome, título e empresa. 2. Clone esse projeto no Github, edite-o e envie-o de volta para nós por meio de uma [pull request](https://help.github.com/en/articles/about-pull-requests). 3. Envie perguntas, comentários ou ideias por meio do sistema de [issues do Github](https://github.com/propublica/collaborative-playbook/issues/).
 

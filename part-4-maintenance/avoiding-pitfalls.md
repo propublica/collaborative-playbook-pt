@@ -8,6 +8,5 @@ Embora alguns jornalistas possam expressar entusiasmo, eles podem não passar po
 
 Dada a infeliz realidade da nossa indústria, a rotatividade é um problema sério. Às vezes, excelentes pessoas trocam de emprego ou são demitidas, e pode ser uma batalha difícil encontrar novas pessoas na redação para participar e partir do zero.
 
-Os repórteres estão ocupados e tendem a ser mais reativos do que proativos, por isso é útil encontrar pessoas que trabalham em projetos de longo prazo que têm maior chance de realmente fazer reportagens e bom uso do projeto. Além disso, aqueles que são menos proativos podem ficar irritados quando perdem dicas, mas é importante reiterar como o projeto funciona e incentivá-los a tomar a iniciativa em vez de esperar para serem notificados.  
-
+Os repórteres estão ocupados e tendem a ser mais reativos do que proativos, por isso é útil encontrar pessoas que trabalham em projetos de longo prazo que têm maior chance de realmente fazer reportagens e bom uso do projeto. Além disso, aqueles que são menos proativos podem ficar irritados quando perdem dicas, mas é importante reiterar como o projeto funciona e incentivá-los a tomar a iniciativa em vez de esperar para serem notificados.
 

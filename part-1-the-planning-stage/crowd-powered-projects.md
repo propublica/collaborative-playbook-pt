@@ -38,15 +38,13 @@ A próxima coisa a considerar é se a informação que você precisa é simples 
 
 ## Você precisa distribuir seu formulário de dicas em mais de um idioma?
 
-É quase sempre uma boa ideia traduzir seu formulário de dicas e distribuí-lo em outros idiomas. (Dito isso, você não deve traduzir o formulário para um idioma se não tiver nenhum jornalista participante que possa ler as respostas e se comunicar com os tipsters.) Se estiver fazendo relatórios em vários países ou tentando alcançar comunidades de imigrantes, É obrigatório. Você também precisará encontrar parceiros que possam ajudá-lo a distribuir o formulário traduzido para a comunidade apropriada que fala esse idioma.
+É quase sempre uma boa ideia traduzir seu formulário de dicas e distribuí-lo em outros idiomas. \(Dito isso, você não deve traduzir o formulário para um idioma se não tiver nenhum jornalista participante que possa ler as respostas e se comunicar com os tipsters.\) Se estiver fazendo relatórios em vários países ou tentando alcançar comunidades de imigrantes, É obrigatório. Você também precisará encontrar parceiros que possam ajudá-lo a distribuir o formulário traduzido para a comunidade apropriada que fala esse idioma.
 
 ## Quem está melhor posicionado para produzir matérias a partir dessas dicas?
 
 Há vários fatores que você deve considerar ao pensar em parcerias com dados de crowdsourcing:
 
-*Quais organizações cobrem e servem as comunidades que você deseja alcançar?
-*Quais organizações têm experiência em relatórios sobre esse assunto ou comunidade?
-*Quais jornalistas estariam interessados e dispostos a fazer esse tipo de trabalho?
+_Quais organizações cobrem e servem as comunidades que você deseja alcançar?_ Quais organizações têm experiência em relatórios sobre esse assunto ou comunidade? \*Quais jornalistas estariam interessados e dispostos a fazer esse tipo de trabalho?
 
 Você vai buscar fazer parceria com organizações de notícias que possam distribuir o formulário de dicas para o público-alvo que você deseja alcançar. Isso pode estar relacionado a uma área geográfica ou comunidades específicas. Você também vai querer considerar quem estaria mais interessado e melhor preparado para produzir matérias a partir dessas dicas.
 
@@ -60,5 +58,5 @@ Ao considerar parceiros, você deve considerar os resultados mais prováveis de 
 
 ## Você tem um plano para usar as dicas e se comunicar com o público?
 
-Você deve estabelecer um sistema para acompanhar as dicas recebidas e garantir que os parceiros estejam na mesma página (temos sugestões neste guia de como fizemos). Você também deve pensar em como planeja envolver as pessoas que enviam dicas. Existem outras maneiras de mantê-los engajados, como manter contato regularmente, enviar atualizações quando você publica uma nova história ou iniciar uma newsletter privada ou um grupo no Facebook?
+Você deve estabelecer um sistema para acompanhar as dicas recebidas e garantir que os parceiros estejam na mesma página \(temos sugestões neste guia de como fizemos\). Você também deve pensar em como planeja envolver as pessoas que enviam dicas. Existem outras maneiras de mantê-los engajados, como manter contato regularmente, enviar atualizações quando você publica uma nova história ou iniciar uma newsletter privada ou um grupo no Facebook?
 

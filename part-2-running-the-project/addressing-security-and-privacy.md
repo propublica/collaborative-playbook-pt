@@ -1,6 +1,6 @@
 # Lidando com questões de segurança e privacidade
 
-As pessoas não preencherão seu formulário se não entenderem o que você fará (e não fará) com as informações deles.
+As pessoas não preencherão seu formulário se não entenderem o que você fará \(e não fará\) com as informações deles.
 
 No caso do Documenting Hate, nosso formulário diz claramente que mantemos as informações das fontes confidenciais e que não serão compartilhadas voluntariamente com as autoridades. Mas explicamos que suas informações serão compartilhadas com outros parceiros no projeto. Pode ser necessário repetir algumas dessas informações quando você procurar os informantes.
 

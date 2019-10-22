@@ -35,9 +35,9 @@ Veja exemplos de histórias de:
 * [Case Cleared Reporting Network](https://www.revealnews.org/local/reveal-reporting-networks/case-cleared-network/), da Reveal 
 * [The Bureau Local](https://www.thebureauinvestigates.com/local/local-stories) 
 * [Shared Data Unit](https://www.bbc.com/lnp/sdu/sdu-coverage) da BBC
-* [Verificado](https://verificado.mx/) Mexico project \(Spanish\), de veículos mexicanos (em espanhol) 
-* Projeto [Comprova](https://projetocomprova.com.br/), da First Draft (em português)
-* Projeto [Crosscheck](https://crosscheck.firstdraftnews.org/france-en/), da First Draft (em francês) 
+* [Verificado](https://verificado.mx/) Mexico project \(Spanish\), de veículos mexicanos \(em espanhol\) 
+* Projeto [Comprova](https://projetocomprova.com.br/), da First Draft \(em português\)
+* Projeto [Crosscheck](https://crosscheck.firstdraftnews.org/france-en/), da First Draft \(em francês\) 
 * [ER bills project](https://www.vox.com/2018/2/27/16936638/er-bills-emergency-room-hospital-fees-health-care-costs)\*, da Vox 
 
 \*_Não funcionou como um projeto colaborativo, mas foram oferecidas dicas aos repórteres locais ao final do projeto._

@@ -45,7 +45,7 @@ Em seguida, você precisa pensar sobre os repórteres que são estrelas ou espec
 
 Os indivíduos que trabalham no projeto são incrivelmente importantes. Jean Friedman-Rudovsky, o diretor co-executivo da Resolve Philadelphia, uma organização criada para construir colaborações de jornalismo na cidade, diz que descobriu que esse é o caso. "Algo que fez isso funcionar para nós é que há apenas as pessoas certas na mesa", disse ela. "Não é apenas o buy-in institucional, mas literalmente as pessoas que vêm às reuniões presenciais que temos a cada quatro ou seis semanas estão ansiosas para estar lá e querem trabalhar juntas e são colaborativas em espírito e isso realmente ajudou."
 
-Por fim, se você deseja criar uma coalizão com mais de cinco parceiros, convém considerar a possibilidade de designar alguém para gerenciar a colaboração como parte (ou todo) de seu trabalho. Será difícil ampliar a colaboração sem alguém cujo trabalho é coordenar.
+Por fim, se você deseja criar uma coalizão com mais de cinco parceiros, convém considerar a possibilidade de designar alguém para gerenciar a colaboração como parte \(ou todo\) de seu trabalho. Será difícil ampliar a colaboração sem alguém cujo trabalho é coordenar.
 
 Bryant também recomenda que os parceiros se encontrem pessoalmente, se possível, para ajudar a fortalecer a confiança. Ela também disse que há colaborações que criam equipes menores, compostas de representantes de diferentes organizações, que podem ajudar nas relações e na comunicação mais eficiente.
 
