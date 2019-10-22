@@ -17,7 +17,7 @@ As colaborações abrangem desde reportagens independentes produzidas em uma coa
 O Centro de Mídia Cooperativa, que estuda esses tipos de projetos, [define seis tipos de colaboração](https://collaborativejournalism.org/models/). Veja como a taxonomia delas se aplica às colaborações de dados:
 
 * Temporária e Separada: Cobrindo o mesmo problema e trabalhando de forma totalmente separada, como o [SF Homeless Project](https://twitter.com/bayareahomeless)
-* Temporária e em cocriação: Compartilhando informações, mas reportando de forma independente, como os trabalhos da ProPublica [Electionland](http://election.land) ou [Documenting Hate](http://www.documentinghate.com)
+* Temporária e em cocriação: Compartilhando informações, mas reportando de forma independente, como os trabalhos da ProPublica [Electionland](http://election.land) ou [Documenting Hate](http://www.documentinghate.com) \(Documentar o Ódio\)
 * Temporária e Integrada: Relato de histórias em conjunto por um período de tempo, como os [Panama Papers](https://www.icij.org/investigations/panama-papers/) e o [Implant Files](https://www.icij.org/investigations/implant-files/), ou os projetos de dados da rede USA Today.
 * Em andamento e separada: os parceiros criam o conteúdo separadamente e o compartilham, como o [Next to Die do Marshall Project](https://www.themarshallproject.org/next-to-die)
 * Em andamento e em cocriação: co-relato em um cenário de longo prazo, como o [Alaska's Energy Desk](https://www.alaskapublic.org/category/aprn-app/newsfeed/akenergydesk/)

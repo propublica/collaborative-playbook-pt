@@ -4,7 +4,7 @@ Heather Bryant, fundadora e diretora do Project Facet, uma plataforma de colabor
 
 "Descobri que os grupos que realmente conseguiram dar certo são os que duplicaram o esforço de se comunicar claramente com todos e tentam encontrar as pessoas onde estão e garantir que todos saibam o que está acontecendo", disse ela. "Sinto que qualquer esforço que você invista na comunicação e certificando-se de que todos os participantes estejam informados é um valor que você definitivamente obterá um retorno".
 
-Uma vez que você concorda com uma parceria, a recomendação de Murray é que todas as partes considerem algumas questões-chave antes do tempo. O mais importante para os propósitos deste guia são todos os parceiros em potencial para compartilhar dados?
+Uma vez que você concorda com uma parceria, a recomendação de Murray é que todas as partes considerem algumas questões-chave antes do tempo. O mais importante para os propósitos deste guia: são todos os parceiros em potencial para compartilhar dados?
 
 Aqui estão algumas perguntas que você pode querer considerar.
 
@@ -33,7 +33,7 @@ Depois de decidir o que você quer investigar, há algumas considerações que v
 * Alcance
 * Escala
 
-Construir confiança é uma das partes mais desafiadoras da colaboração, já que muitas vezes há preocupações sobre a concorrência. É essencial explicar os termos da colaboração e os benefícios mútuos envolvidos. Por exemplo, documentar o ódio é um projeto livre de exclusividade, em que dicas e recursos são dados por ordem de chegada. Você não precisa necessariamente adaptar essa abordagem, mas é assim que permitimos um campo de atuação nivelado. Pode levar algum tempo para criar confiança, ou seja, várias conversas, reuniões ou chamadas, por isso você deve levar isso em conta. Especialistas dizem que é mais fácil fazer colaborações pela primeira vez com pessoas que você já conhece e confia.
+Construir confiança é uma das partes mais desafiadoras da colaboração, já que muitas vezes há preocupações sobre a concorrência. É essencial explicar os termos da colaboração e os benefícios mútuos envolvidos. Por exemplo, Documentar o Ódio é um projeto livre de exclusividade, em que dicas e recursos são dados por ordem de chegada. Você não precisa necessariamente adaptar essa abordagem, mas é assim que permitimos um campo de atuação nivelado. Pode levar algum tempo para criar confiança, ou seja, várias conversas, reuniões ou chamadas, por isso você deve levar isso em conta. Especialistas dizem que é mais fácil fazer colaborações pela primeira vez com pessoas que você já conhece e confia.
 
 "A colaboração exige que você esteja participando de boa fé e que confie nas pessoas que estarão lá", disse Bryant, do Projeto Facet. "Participar de uma colaboração é um ato de confiança e é um ato de coragem, e você está fazendo isso por causa do que você pode realizar juntos que você não poderia fazer sozinho."
 
@@ -41,7 +41,7 @@ O tamanho da sua coalizão dependerá da geografia do problema que você está t
 
 Você também vai querer pensar sobre o tipo de audiência que o público tem. Não é apenas uma cobertura geográfica - a demografia também é importante. Pense em que tipo de comunidade você está tentando cobrir e onde essas comunidades recebem suas notícias.
 
-Em seguida, você precisa pensar sobre os repórteres que são estrelas ou especialistas nesse ritmo. Você pode levá-los a participar? Se não, o que você pode oferecer aos repórteres de missões mais gerais para ajudá-los a construir essa batida? Documentar O ódio oferece materiais de treinamento escritos e gravados, bem como seminários on-line regulares e treinamentos para os jornalistas participantes.
+Em seguida, você precisa pensar sobre os repórteres que são estrelas ou especialistas nesse ritmo. Você pode levá-los a participar? Se não, o que você pode oferecer aos repórteres de missões mais gerais para ajudá-los a construir essa batida? Documentar o Ódio oferece materiais de treinamento escritos e gravados, bem como seminários on-line regulares e treinamentos para os jornalistas participantes.
 
 Os indivíduos que trabalham no projeto são incrivelmente importantes. Jean Friedman-Rudovsky, o diretor co-executivo da Resolve Philadelphia, uma organização criada para construir colaborações de jornalismo na cidade, diz que descobriu que esse é o caso. "Algo que fez isso funcionar para nós é que há apenas as pessoas certas na mesa", disse ela. "Não é apenas o buy-in institucional, mas literalmente as pessoas que vêm às reuniões presenciais que temos a cada quatro ou seis semanas estão ansiosas para estar lá e querem trabalhar juntas e são colaborativas em espírito e isso realmente ajudou."
 
