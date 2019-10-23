@@ -1,4 +1,4 @@
-# Lançando um formulário de Crowdsourcing e coletando respostas
+# Lançando um formulário de crowdsourcing e coletando respostas
 
 Jornalistas que trabalham com engajamento usam a palavra "callouts" \(chamada\) para descrever solicitações de informações de leitores ou espectadores, incluindo formulários de envio, links de e-mail dedicados, etc.
 

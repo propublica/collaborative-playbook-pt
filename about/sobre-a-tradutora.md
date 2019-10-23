@@ -1,0 +1,4 @@
+# Sobre a tradutora
+
+Natália Mazotte é jornalista de dados e empreendedora digital. Recebeu em 2019 a bolsa JSK \(John S. Knight\) em Stanford, onde atualmente estuda como superar desertos de dados em nível local. Foi diretora-executiva da Open Knowledge Brasil e liderou projetos de inovação cívica e capacitação em uso de dados. Co-fundou a Gênero e Número, startup de jornalismo de dados com foco em gênero, e criou a primeira conferência brasileira de jornalismo de dados e métodos digitais \(Coda.Br\). Trabalhou em organizações como Ibase, Globo e Ministério Público. É professora da pós em Jornalismo Digital da PUC-RS e do MBA Web Intelligence da COPPE/UFRJ e instrutora em cursos massivos do Centro Knight, da Universidade do Texas. Possui mestrado em Comunicação pela UFRJ e pós-graduação em Estratégia Digital pela Pompeu Fabra \(Espanha\).
+

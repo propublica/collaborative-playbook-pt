@@ -2,15 +2,15 @@
 
 O sucesso de cada redação participante depende da capacidade de resposta e da vontade de compartilhar um recurso conjunto.
 
-Os projetos Documentating Hate e Electionland da ProPublica foram baseados em alguns princípios simples:
+Os projetos Documenting Hate e Electionland da ProPublica foram baseados em alguns princípios simples:
 
 * É uma zona livre de exclusividade/furo.
 * Para evitar um assédio excessivo aos informantes, com uma enxurrada de telefonemas de repórteres, as entradas no banco de dados são direcionadas aos jornalistas por ordem de chegada. As dicas podem ser revisadas mais tarde, mas somente depois que o jornalista original terminar de checá-la ou tentar entrar em contato com o informante.
 * As dicas que chegam por meio de uma organização de mídia específica são fornecidas como primeiros detalhes para essa organização de mídia.
 
-No caso do Documenting Hate, há um gerente de parceiro \(eu!\) Para interpretar o policial de trânsito, gerenciar as dicas e fornecer informações de contato para os informantes. Se todos tiverem acesso às informações de contato, o ônus é dos participantes respeitarem a regra do primeiro a chegar, primeiro a ser servido.
+No caso do Documenting Hate, há um gerente de parceiro \(eu!\) para interpretar o policial de trânsito, gerenciar as dicas e fornecer informações de contato para os informantes. Se todos tiverem acesso às informações de contato, o ônus é dos participantes respeitarem a regra do primeiro a chegar, primeiro a ser servido.
 
-Nossa nova ferramenta Collaborate suporta a marcação de registros como tendo sido reivindicada. Está configurado para que os repórteres possam ver quem está trabalhando em quais dicas, quais dicas já foram verificadas e quais ainda não foram relatadas. Há também um espaço para os repórteres anotarem com mais detalhes as informações que eles coletaram. Isso é realmente importante para acompanhar o progresso nas dicas.
+Nossa nova ferramenta [Collaborate](https://www.propublica.org/nerds/making-collaborative-data-projects-easier-our-new-tool-collaborate-is-here) suporta a marcação de registros como tendo sido reivindicada. Está configurado para que os repórteres possam ver quem está trabalhando em quais dicas, quais dicas já foram verificadas e quais ainda não foram relatadas. Há também um espaço para os repórteres anotarem com mais detalhes as informações que eles coletaram. Isso é realmente importante para acompanhar o progresso nas dicas.
 
 Ocasionalmente, existem dicas mais quentes que várias pessoas querem seguir. Geralmente, a maneira que funciona é a primeira pessoa a reivindicar a dica publica sobre ela, e outras agências podem citá-las ou fazer relatórios separados.
 

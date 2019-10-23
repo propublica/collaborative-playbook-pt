@@ -1,8 +1,8 @@
 # Construindo seu formulário e sua base de dados
 
-_A ProPublica está desenvolvendo a ferramenta de software que criamos para nossas parcerias de larga escala e a liberando em código aberto. Ele é uma solução pronta que você pode usar para criar seu próprio projeto sem precisar começar do zero ou contratar um desenvolvedor. Chama-se Collaborate e estará disponível no outono._
+_A ProPublica desenvolveu a ferramenta de software que criamos para nossas parcerias de larga escala e a liberou em código aberto. Ele é uma solução pronta que você pode usar para criar seu próprio projeto sem precisar começar do zero ou contratar um desenvolvedor._ [_Chama-se Collaborate e está disponível aqui._](https://www.propublica.org/nerds/making-collaborative-data-projects-easier-our-new-tool-collaborate-is-here)\_\_
 
-_O projeto é uma colaboração com a Google News Initiative, que também forneceu suporte financeiro. Atualmente, o software suporta o Google Forms, que é a ferramenta que usaremos para nossos exemplos. Ele também suporta dados enviados usando o Screendoor, bem como dados nas planilhas do Google Sheets às quais você tem acesso._ [_Inscreva-se aqui para receber um alerta quando a ferramenta for lançada_](https://propublica.forms.fm/documenting-hate-tool-sign-up)_._
+_O projeto é uma colaboração com a Google News Initiative, que também forneceu suporte financeiro. Atualmente, o software suporta o Google Forms, que é a ferramenta que usaremos para nossos exemplos. Ele também suporta dados enviados usando o Screendoor, bem como dados nas planilhas do Google Sheets às quais você tem acesso e CSVs._ 
 
 _A partir de agora, este guia assumirá que seu projeto é baseado em dicas de crowdsourcing._
 

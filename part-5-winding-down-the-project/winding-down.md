@@ -1,4 +1,4 @@
-# Winding Down the Project
+# Encerrando o Projeto
 
 Muitos projetos operam em um cronograma fixo, seja seis meses ou três anos. Então você deve considerar como fazer para encerrar um projeto de crowdsourcing.
 

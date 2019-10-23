@@ -8,9 +8,9 @@ Esse papel não pode ser pensado depois e não pode ser o "trabalho de todos". �
 
 ## Integrando o time: tutoriais e treinamento
 
-É útil padronizar as informações que você envia para novos parceiros. Para o Documenting Hate, enviamos um e-mail detalhado com informações sobre o nosso grupo no Slack, como usar nosso planilha de dicas, requisitos de integração, idioma para usar em histórias e outros recursos do projeto. Também fornecemos treinamentos regulares sobre como usar os recursos do projeto e um link para a gravação de um treinamento em nossos materiais de integração.
+É útil padronizar as informações que você envia para novos parceiros. Para o Documenting Hate, enviamos um e-mail detalhado com informações sobre o nosso grupo no Slack, como usar nosso planilha de dicas, requisitos de integração, linguagem para usar em histórias e outros recursos do projeto. Também fornecemos treinamentos regulares sobre como usar os recursos do projeto e um link para a gravação de um treinamento em nossos materiais de integração.
 
-Da mesma forma, quando o Bureau Local participa, ele adiciona novos membros ao seu grupo no Slack, onde fornece bases de dados e receitas de reportagens \(consulte a seção Relatório e análise de dados abaixo\).
+Da mesma forma, quando o Bureau Local integra novos parceiros, ele adiciona novos membros ao seu grupo no Slack, onde fornece bases de dados e receitas de reportagens \(consulte a seção Relatório e análise de dados abaixo\).
 
 No mínimo, você deve definir diretrizes sobre como usar os dados que está coletando. Por exemplo, o ICIJ produz tutoriais, fornece treinamentos e possui coordenadores específicos da região para trabalhar com os repórteres em seus idiomas. A organização - que estabelece uma data de embargo para a publicação de todos os parceiros - também distribui diretrizes antes da publicação sobre a rodada final de reportagens.
 

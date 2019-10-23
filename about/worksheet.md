@@ -1,46 +1,46 @@
-# Worksheet: Planning a Crowd-Powered Collaboration
+# Planilha: Planejar uma colaboração com crowdsourcing
 
-**This incorporates material from this guide, as well as from** [**ProPublica's crowdsourcing checklist**](https://www.propublica.org/getinvolved/what-to-ask-yourself-before-you-start-a-crowdsourcing-project)**.**
+**Esta planilha incorpora informações de este guia e** [**desta lista sobre crowdsourcing**](https://www.propublica.org/getinvolved/what-to-ask-yourself-before-you-start-a-crowdsourcing-project) **da ProPublica.** 
 
-## The Investigation
+## A investigação
 
-What is the question you want to answer?
+Qual a pergunta que você quer responder? 
 
-Is your reporting priority quantitative or qualitative?
+A prioridade para a reportagem é quantativa ou qualitativa? 
 
-What kind of stories \(text, audio, video, visualizations\) will this effort likely produce?
+Que tipos de histórias \(texto, áudio, video, visualizações\) serão produzidos?
 
-What are the reporting gaps?
+Se já começou o processo de reportagem, qual informação está faltando?
 
 ## Crowdsourcing
 
-Can the question you're asking be answered by surveying the public? Or would this be better accomplished through public records requests or existing datasets?
+A pergunta que quer fazer pode ser respondida com uma enquete? Ou seria melhor procurar documentos públicos o conjuntos de dados existentes?
 
-Can you gather the information you need with a single structured set of questions?
+Pode juntar a informação que precisa com um conjunto de perguntas estruturadas?
 
-Who do you want to respond to your questions? Who is your target audience?
+Quem deveria responder as suas perguntas? Quem é o público alvo?
 
-Once you've identified your target audience, ask: Why would they want to participate?
+Por quê o público alvo iria querer participar?
 
-Why _wouldn't_ your target audience want to participate? What concerns should you address?
+Por quê o público alvo _não_ iria querer participar? Quais são suas preocupações?
 
-What languages does your target audience speak? Do you have participating reporters who speak those languages?
+Quais idiomas fala seu público alvo? Os jornalistas que participam do projeto falam esses idiomas?
 
-Where is your target audience already discussing this issue, online or in person?
+Seu público alvo já está conversando deste tema, online ou num lugar físico?
 
-Who is influential among your target audience? And what do they think about your idea?
+Dentro do seu público alvo, quem é influente? E que eles acham sobre a sua ideia?
 
-How will you use audience submissions? What's the best way to explain what you will do with their responses?
+Como você pretende usar as respostas do público? Qual a melhor maneira de explicar que vai fazer com as respostas?
 
-## Partners
+## Parceiros
 
-Who is best equipped to report these tips out?
+Quem seria melhor preparada para fazer essas reportagens?
 
-Who is already on this beat and doing great work?
+Quem já esta cobrindo este tema e está fazendo um trabalho bom?
 
-Do you personally know journalists at other newsrooms who'd be eager to work with you?
+Conhece pessoalmente a jornalistas em outros meios quem iriam gostar trabalhar com você?
 
-Which media companies serve the audience you want to reach?
+Quais meios servem a audiência que você quer alcançar?
 
-Which media companies have journalists most willing to participate?
+Quais meios tem jornalistas mais dispostos a participar?
 
