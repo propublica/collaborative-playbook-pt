@@ -1,6 +1,6 @@
 # Contratos, Memorandos de Entendimento \(MoU\) e outros acordos formais
 
-Nesse ponto, você pode pensar que é hora de chamar advogados. Embora as regras ou a cultura da sua empresa possam exigir isso, contratos e outras formalidades podem criar complicações desnecessárias. As colaborações precisam evoluir rapidamente e precisam ser capazes de evoluir à medida que novos parceiros entram e que as histórias exigem; O processo corporativo pode ser muito lento e tímido para suportar a natureza ad hoc de uma colaboração.
+Nesse ponto, você pode pensar que é hora de chamar advogados. Embora as regras ou a cultura da sua empresa possam exigir isso, contratos e outras formalidades podem criar complicações desnecessárias. As colaborações precisam evoluir rapidamente e precisam ser capazes de evoluir à medida que novos parceiros entram e que as histórias exigem; o processo corporativo pode ser muito lento e tímido para suportar a natureza ad hoc de uma colaboração.
 
 A ProPublica acredita que as colaborações são melhores quando organizadas pelos jornalistas, colocando as histórias em primeiro lugar. E-mails simples entre editores - ou em último caso, um memorando de entendimento de uma página - cobrindo como a colaboração funcionará podem ser suficientes.
 
