@@ -1,6 +1,6 @@
 # Lançando um formulário de crowdsourcing e coletando respostas
 
-Jornalistas que trabalham com engajamento usam a palavra "callouts" \(chamada\) para descrever solicitações de informações de leitores ou espectadores, incluindo formulários de envio, links de e-mail dedicados, etc.
+Jornalistas que trabalham com engajamento usam a palavra "callouts" \(chamadas\) para descrever solicitações de informações de leitores ou espectadores, incluindo formulários , e-mails dedicados, etc.
 
 É importante coordenar uma data de lançamento com seus parceiros para que todos possam publicar seus formulários para receber dicas no mesmo dia, e cada redação deve preparar um artigo sobre o projeto para recrutar participantes do público e explicar o que está procurando alcançar. Coordene os detalhes técnicos, mas deixe espaço para os seus parceiros falarem com o público deles como eles sabem melhor. Essa conexão é o que os tornou atraentes em um primeiro momento, não é verdade?
 
