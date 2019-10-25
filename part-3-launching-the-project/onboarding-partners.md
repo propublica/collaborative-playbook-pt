@@ -8,13 +8,13 @@ Esse papel não pode ser pensado depois e não pode ser o "trabalho de todos". �
 
 ## Integrando o time: tutoriais e treinamento
 
-É útil padronizar as informações que você envia para novos parceiros. Para o Documenting Hate, enviamos um e-mail detalhado com informações sobre o nosso grupo no Slack, como usar nosso planilha de dicas, requisitos de integração, linguagem para usar em histórias e outros recursos do projeto. Também fornecemos treinamentos regulares sobre como usar os recursos do projeto e um link para a gravação de um treinamento em nossos materiais de integração.
+É útil padronizar as informações que você envia para novos parceiros. Para o Documenting Hate, enviamos um e-mail detalhado com informações sobre o nosso grupo no Slack, como usar nossa planilha de dicas, requisitos de integração, linguagem para usar em matérias e outros recursos do projeto. Também fornecemos treinamentos regulares sobre como usar os recursos do projeto e um link para um treinamento em vídeo em nossos materiais de integração.
 
 Da mesma forma, quando o Bureau Local integra novos parceiros, ele adiciona novos membros ao seu grupo no Slack, onde fornece bases de dados e receitas de reportagens \(consulte a seção Relatório e análise de dados abaixo\).
 
-No mínimo, você deve definir diretrizes sobre como usar os dados que está coletando. Por exemplo, o ICIJ produz tutoriais, fornece treinamentos e possui coordenadores específicos da região para trabalhar com os repórteres em seus idiomas. A organização - que estabelece uma data de embargo para a publicação de todos os parceiros - também distribui diretrizes antes da publicação sobre a rodada final de reportagens.
+No mínimo, você deve definir diretrizes sobre como usar os dados que está coletando. Por exemplo, o ICIJ produz tutoriais, fornece treinamentos e possui coordenadores específicos de uma região para trabalhar com os repórteres em seus idiomas. A organização - que estabelece uma data de embargo para a publicação de todos os parceiros - também distribui diretrizes antes da publicação sobre a rodada final de reportagens.
 
-Como a principal redação, você também deve estar preparado com recursos como dicionários de dados e documentação para que os repórteres colaboradores possam entender o material. E você provavelmente entenderá as limitações dos dados melhor do que seus parceiros. Se os dados não puderem ser comparados entre municípios ou se os números não puderem ser agregados ao nível do estado, informe aos parceiros isso cedo e frequentemente.
+Como a principal redação, você também deve estar preparado com recursos como dicionários de dados e documentação para que os repórteres colaboradores possam entender o material. E você provavelmente entenderá as limitações dos dados melhor do que seus parceiros. Se os dados não puderem ser comparados entre municípios ou se os números não puderem ser agregados ao nível estadual, informe sempre isso aos parceiros o quanto antes.
 
 ## Embargos
 
@@ -26,7 +26,7 @@ As organizações que trabalham com dados compartilhados geralmente estabelecem 
 
 Projetos colaborativos geralmente dependem de um espaço de comunicação compartilhado, como o Slack ou uma ferramenta interna, para manter conversas em andamento. Para alguns projetos, há chamadas semanais ou quinzenais, bate-papos no Slack para discutir reportagens ou uma reunião presencial. Os gerentes de projeto também são vitais para manter uma conversa regular com os parceiros.
 
-A maioria dos projetos de dados colaborativos com os quais estamos familiarizados usaram o Slack como um sistema de comunicação. Não é de forma alguma a opção mais barata ou mais segura. Uma explicação completa do uso do Slack na comunicação entre salas de aula está além do escopo deste guia, mas aqui estão alguns pontos de partida úteis da documentação do Slack:
+A maioria dos projetos de dados colaborativos com os quais estamos familiarizados usaram o Slack como sistema de comunicação. Não é de forma alguma a opção mais barata ou mais segura. Uma explicação completa do uso do Slack na comunicação entre redações está além do escopo deste guia, mas aqui estão alguns pontos de partida úteis da documentação do Slack:
 
 * [Como usar o slack](https://get.slack.help/hc/pt-br/categories/200111606-Como-usar-o-Slack)
 * [Administração do workspace](https://get.slack.help/hc/pt-br/categories/200122103-Administra%C3%A7%C3%A3o-do-workspace)
